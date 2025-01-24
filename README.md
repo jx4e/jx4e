@@ -3,8 +3,16 @@
 * Currently studying Computer Science at UBC 💻
 * Living in Vancouver, BC 🇨🇦
 * Originally from Bristol, England 🇬🇧
+  
+## What I'm currently learning 🌱
+### In my spare time 🧩
+* Laravel 🛠️
 
-# A little bit about me... 😎
+### At university 🎓
+* Applied Machine Learning (UBC CPSC 330) 🤖
+* Software architecture, operating systems, and I/O architectures (UBC CPSC 213) ⚙️
+
+# A little bit about me 😎
 ```java
 public class Jake extends Human {
     private String name;
