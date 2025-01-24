@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # Welcome to my GitHub 😼
 * Hi there, I'm Jake! 👨‍🦱
 * Currently studying Computer Science at UBC 💻
