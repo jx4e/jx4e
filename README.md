@@ -6,7 +6,7 @@
 
 # A little bit about me... 😎
 ```java
-public class Jake {
+public class Jake extends Human {
     private String name;
     private int age;
     private List<String> hobbies;
