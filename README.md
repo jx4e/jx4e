@@ -12,7 +12,9 @@
 
 ### At university 🎓
 * Applied Machine Learning (UBC CPSC 330) 🤖
+  * Working in python with SciKitLearn
 * Software architecture, operating systems, and I/O architectures (UBC CPSC 213) ⚙️
+  * Learning C
 
 # A little bit about me 😎
 ```java
