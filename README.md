@@ -1,6 +1,7 @@
 
-<p align="right">
-  <pre>
+```
+------------------------------------------------------------------------------------------------------------------------
+
                                           /$$$$$ /$$   /$$ /$$   /$$ /$$$$$$$$
                                          |__  $$| $$  / $$| $$  | $$| $$_____/
                                             | $$|  $$/ $$/| $$  | $$| $$      
@@ -8,66 +9,34 @@
                                        /$$  | $$  >$$  $$ |_____  $$| $$__/   
                                       | $$  | $$ /$$/\  $$      | $$| $$      
                                       |  $$$$$$/| $$  \ $$      | $$| $$$$$$$$
-                                       \______/ |__/  |__/      |__/|________/
-        </pre>
-</p>
+                                       \______/ |__/  |__/      |__/|________/ v2.0
+ 
 
-# Welcome to my GitHub 😼
-* Hi there, I'm Jake! 👨‍🦱
-* Currently studying Computer Science at UBC 💻
-* Living in Vancouver, BC 🇨🇦
-* Originally from Bristol, England 🇬🇧
-  
-## What I'm currently learning 🌱
-### In my spare time 🧩
-* Laravel 🛠️
-
-### At university 🎓
-* Applied Machine Learning (UBC CPSC 330) 🤖
-  * Working in python with SciKitLearn
-* Software architecture, operating systems, and I/O architectures (UBC CPSC 213) ⚙️
-  * Learning C
-
-# A little bit about me 😎
-```java
-public class Jake extends Human {
-    private String name;
-    private int age;
-    private List<String> hobbies;
-
-    public Jake() {
-        this.name = "Jake Gaunt";
-        this.age = 19;
-        this.hobbies = Arrays.asList("Swimming", "Video Games", "Skiing");
-    }
-
-    public void introduceMyself() {
-        System.out.println("Hello World! My name is " + name);
-        System.out.println("I am currently a " + age + " years old ");
-        System.out.println("My hobbies are: ");
-        hobbies.forEach(System.out::println);
-    }
-
-    public static void main(String[] args) {
-        new Jake().introduceMyself();
-    }
-}
+------------------------------------------------------------------------------------------------------------------------
+ABOUT
+------------------------------------------------------------------------------------------------------------------------
+        Name               : Jake Gaunt 
+        Studying           : Computer Science at University Of British Columbia
+        Living             : Vancouver, BC
+        From               : Bristol, England
+------------------------------------------------------------------------------------------------------------------------
+SKILLS
+------------------------------------------------------------------------------------------------------------------------
+        Currently Learning : C++, Laravel
+        Languages          : Python, Java, C
+        Libraries          : Minecraft Forge & Fabric, Scikitlearn
+------------------------------------------------------------------------------------------------------------------------
+INTERESTS
+------------------------------------------------------------------------------------------------------------------------
+        Hobbies            : Skiing, Video Games
+        Swimming           : UBC Thunderbirds!
+------------------------------------------------------------------------------------------------------------------------
+                                        _________     ___  _______  ___  ______
+                                       / ___/ __ \   / _ )/  _/ _ \/ _ \/ __/ /
+                                      / (_ / /_/ /  / _  |/ // , _/ // /\ \/_/ 
+                                      \___/\____/  /____/___/_/|_/____/___(_) 
+------------------------------------------------------------------------------------------------------------------------
 ```
-
-```bash
-$ javac Jake.java
-$ java Jake
-```
-```plaintext
-Hello World! My name is Jake Gaunt
-I am currently a 19 years old 
-My hobbies are: 
-Swimming
-Video Games
-Skiing
-
-```
-
 # Statistics
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
