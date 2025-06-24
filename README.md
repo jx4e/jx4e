@@ -13,34 +13,30 @@
  
 
 ------------------------------------------------------------------------------------------------------------------------
-ABOUT
-------------------------------------------------------------------------------------------------------------------------
-        Name               : Jake Gaunt 
-        Studying           : Computer Science at University Of British Columbia
-        Living             : Vancouver, BC
-        From               : Bristol, England
-------------------------------------------------------------------------------------------------------------------------
-SKILLS
-------------------------------------------------------------------------------------------------------------------------
-        Currently Learning : C++, Laravel, Spring Boot
-        Languages          : Python, Java, C
-        Libraries          : Minecraft Forge & Fabric, Scikitlearn
-------------------------------------------------------------------------------------------------------------------------
-INTERESTS
-------------------------------------------------------------------------------------------------------------------------
-        Hobbies            : Skiing, Video Games
-        Swimming           : UBC Thunderbirds!
-------------------------------------------------------------------------------------------------------------------------
-                                        _________     ___  _______  ___  ______
-                                       / ___/ __ \   / _ )/  _/ _ \/ _ \/ __/ /
-                                      / (_ / /_/ /  / _  |/ // , _/ // /\ \/_/ 
-                                      \___/\____/  /____/___/_/|_/____/___(_) 
-------------------------------------------------------------------------------------------------------------------------
 ```
-# Statistics
+# 👋 Hello, I’m Jake
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jx4e&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats" style="width: 49%; height: 200px;"/>
+I’m a software engineer from the UK studying CS @ UBC. 
 
-</div>
+## 🧰 My Stack
+
+### Languages
+<a href="https://skillicons.dev" aria-label="Skillicons.dev">
+  <img
+    src="https://skillicons.dev/icons?i=java,python,cpp,c,php"
+    alt="Java, Python, C++, C, PHP"
+    style="height: 48px; margin: 0 8px;"
+  />
+</a>
+
+### Frameworks & Tools
+<a href="https://skillicons.dev" aria-label="Skillicons.dev">
+  <img
+    src="https://skillicons.dev/icons?i=laravel,spring,tailwind,sklearn,postgres"
+    alt="Laravel, Spring, Tailwind CSS, Scikit-Learn, PostgreSQL"
+    style="height: 48px; margin: 0 8px;"
+  />
+</a>
+
+
+
