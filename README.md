@@ -13,15 +13,17 @@
 ------------------------------------------------------------------------------------------------------------------------
 ```
 
-# 👋 Hello, I'm Jake
+# Jake Gaunt
 
-I'm a software engineer from the UK studying CS @ UBC.
+Software engineer from the UK, studying CS @ UBC. I like building things that are actually useful.
 
-## 💬 Greeting of the Day
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jake%20Gaunt-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jake-gaunt-59552b368/)
 
-<!-- GREETING_START -->
-Hey there! 🌅 Sunday coding sessions hit different - grab some coffee and let's build something awesome! ☕
-<!-- GREETING_END -->
+---
+
+## 🚀 Projects
+
+**[taxscout-api](https://github.com/jx4e/taxscout-api)** — REST API for scraping HMRC tax data on behalf of accountancy clients. Supports Corporation Tax, Self Assessment, PAYE, and VAT.
 
 ---
 
@@ -44,6 +46,14 @@ Hey there! 🌅 Sunday coding sessions hit different - grab some coffee and let'
     style="height: 48px; margin: 0 8px;"
   />
 </a>
+
+---
+
+## 💬 Greeting of the Day
+
+<!-- GREETING_START -->
+Hey there! 🌅 Sunday coding sessions hit different - grab some coffee and let's build something awesome! ☕
+<!-- GREETING_END -->
 
 ---
 
