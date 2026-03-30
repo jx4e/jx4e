@@ -34,7 +34,7 @@ def generate() -> str:
     commits = fetch_commits(username)
 
     if not commits:
-        return "_No recent commits to roast. Suspiciously quiet..._"
+        return "_No recent commits to roast. I must be really lazy..._"
 
     commit_list = "\n".join(
         f"- [{c['repo']}] {c['message']}" for c in commits
@@ -48,11 +48,9 @@ def generate() -> str:
             {
                 "role": "user",
                 "content": (
-                    "Here are my recent GitHub commit messages. Please roast them.\n\n"
-                    "Rate the overall commit message quality out of 10. Call out the lazy ones "
-                    "(single words like 'fix', 'wip', 'update', 'stuff', 'changes'). "
-                    "Write a short snarky summary of my commit hygiene. "
-                    "Format the output as markdown with a header, ratings, and a summary section.\n\n"
+                    "Here are my recent GitHub commit messages. Write 1-2 sentences brutally summarising "
+                    "how bad my commit message hygiene is. Be blunt and specific — call out lazy messages "
+                    "like 'fix', 'wip', 'update' by name if you see them. Plain text only, no markdown.\n\n"
                     f"Commits:\n{commit_list}"
                 ),
             }
