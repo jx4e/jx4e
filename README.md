@@ -24,7 +24,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 | Dow | 45,166.64 | 🔴 -1.73% |
 | FTSE 100 | 9,967.40 | 🔴 -0.05% |
 
-*My code has better uptime than today's markets - even my bugs don't crash 2.15% like NASDAQ did.*
+*My code has fewer bugs today than the market has red numbers: S&P -1.67%, NASDAQ -2.15%, Dow -1.73% - at least the FTSE only dropped 0.05% like my test coverage.*
 
 **Latest headlines:**
 - [Oil rises above $115 and Asia stocks slide as Iran war escalates](https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss)
@@ -59,7 +59,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Sunday! Time to merge those weekend side projects and prep for another week of turning coffee into code ☕️🚀💻
+Sunday vibes: debugging life one lazy commit at a time ☕️🛋️💻
 <!-- GREETING_END -->
 
 ---
@@ -67,5 +67,5 @@ Happy Sunday! Time to merge those weekend side projects and prep for another wee
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer having an existential crisis about ASCII art while "debug: log push event payloads" screams "I have no idea what I'm doing" louder than a broken CI pipeline at 3 AM.*
+*Your commits read like a neurotic perfectionist's fever dream, with "debug: log push event payloads" being so lazy it makes your ASCII art flip-flopping look decisive.*
 <!-- ROAST_END -->
