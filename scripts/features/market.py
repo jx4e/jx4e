@@ -1,3 +1,4 @@
+import anthropic
 import requests
 import xml.etree.ElementTree as ET
 import yfinance as yf
@@ -36,10 +37,33 @@ def fetch_headlines(count: int = 3) -> list[dict]:
     ]
 
 
+def generate_quip(prices: list[dict]) -> str:
+    """Ask Claude for a funny one-liner based on today's market moves."""
+    summary = ", ".join(
+        f"{r['name']} {'up' if r['change_pct'] >= 0 else 'down'} {abs(r['change_pct']):.2f}%"
+        for r in prices
+    )
+    client = anthropic.Anthropic()
+    message = client.messages.create(
+        model="claude-sonnet-4-20250514",
+        max_tokens=100,
+        messages=[{
+            "role": "user",
+            "content": (
+                f"Today's market moves: {summary}. "
+                "Write one short funny sentence about this for a developer's GitHub profile. "
+                "Be witty, reference the actual numbers. Return only the sentence, no quotes."
+            ),
+        }],
+    )
+    return f"*{message.content[0].text}*"
+
+
 def generate() -> str:
-    """Return a markdown price table and headline list."""
+    """Return a markdown price table, funny quip, and headline list."""
     prices = fetch_prices()
     headlines = fetch_headlines()
+    quip = generate_quip(prices)
 
     lines = [
         "| Index | Price | Day |",
@@ -52,6 +76,8 @@ def generate() -> str:
             f"| {row['name']} | {row['price']:,.2f} | {indicator} {sign}{row['change_pct']:.2f}% |"
         )
 
+    lines.append("")
+    lines.append(quip)
     lines.append("")
     lines.append("**Latest headlines:**")
     for h in headlines:

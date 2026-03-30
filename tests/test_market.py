@@ -4,7 +4,7 @@ from unittest.mock import patch, MagicMock
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'scripts'))
 
-from features.market import fetch_prices, fetch_headlines, generate
+from features.market import fetch_prices, fetch_headlines, generate, generate_quip
 
 MOCK_RSS = b"""<?xml version="1.0" encoding="UTF-8"?>
 <rss><channel>
@@ -54,9 +54,18 @@ def test_fetch_headlines_returns_top_3_only():
     assert headlines[2] == {"title": "Tech earnings beat expectations", "link": "https://example.com/3"}
 
 
+def _mock_claude():
+    mock_message = MagicMock()
+    mock_message.content = [MagicMock(text="Stonks only go up.")]
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = mock_message
+    return mock_client
+
+
 def test_generate_contains_price_table_headers():
     with patch("features.market.yf.Ticker", return_value=_mock_ticker(5234.12, 5191.05)), \
-         patch("features.market.requests.get", return_value=_mock_rss_response()):
+         patch("features.market.requests.get", return_value=_mock_rss_response()), \
+         patch("features.market.anthropic.Anthropic", return_value=_mock_claude()):
         result = generate()
     assert "| Index | Price | Day |" in result
     assert "S&P 500" in result
@@ -65,21 +74,51 @@ def test_generate_contains_price_table_headers():
 
 def test_generate_uses_green_for_positive_change():
     with patch("features.market.yf.Ticker", return_value=_mock_ticker(5234.12, 5191.05)), \
-         patch("features.market.requests.get", return_value=_mock_rss_response()):
+         patch("features.market.requests.get", return_value=_mock_rss_response()), \
+         patch("features.market.anthropic.Anthropic", return_value=_mock_claude()):
         result = generate()
     assert "🟢" in result
 
 
 def test_generate_uses_red_for_negative_change():
     with patch("features.market.yf.Ticker", return_value=_mock_ticker(5100.00, 5191.05)), \
-         patch("features.market.requests.get", return_value=_mock_rss_response()):
+         patch("features.market.requests.get", return_value=_mock_rss_response()), \
+         patch("features.market.anthropic.Anthropic", return_value=_mock_claude()):
         result = generate()
     assert "🔴" in result
 
 
+def test_generate_quip_returns_italicised_response():
+    mock_message = MagicMock()
+    mock_message.content = [MagicMock(text="The S&P is up 0.83% — stonks only go up, apparently.")]
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = mock_message
+    prices = [{"name": "S&P 500", "price": 5234.12, "change_pct": 0.83}]
+
+    with patch("features.market.anthropic.Anthropic", return_value=mock_client):
+        result = generate_quip(prices)
+
+    assert result == "*The S&P is up 0.83% — stonks only go up, apparently.*"
+
+
+def test_generate_contains_quip():
+    mock_message = MagicMock()
+    mock_message.content = [MagicMock(text="Stonks only go up.")]
+    mock_client = MagicMock()
+    mock_client.messages.create.return_value = mock_message
+
+    with patch("features.market.yf.Ticker", return_value=_mock_ticker(5234.12, 5191.05)), \
+         patch("features.market.requests.get", return_value=_mock_rss_response()), \
+         patch("features.market.anthropic.Anthropic", return_value=mock_client):
+        result = generate()
+
+    assert "*Stonks only go up.*" in result
+
+
 def test_generate_contains_headlines():
     with patch("features.market.yf.Ticker", return_value=_mock_ticker(5234.12, 5191.05)), \
-         patch("features.market.requests.get", return_value=_mock_rss_response()):
+         patch("features.market.requests.get", return_value=_mock_rss_response()), \
+         patch("features.market.anthropic.Anthropic", return_value=_mock_claude()):
         result = generate()
     assert "**Latest headlines:**" in result
     assert "[Fed signals rate cut pause](https://example.com/1)" in result
