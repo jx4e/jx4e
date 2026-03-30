@@ -44,5 +44,5 @@ I'm a software engineer from the UK studying CS @ UBC.
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits read like a developer's cry for help, especially that pathetic "abc" message that screams "I've given up on life and meaningful communication."*
+*Your commits read like a DevOps fever dream mixed with academic procrastination, but "abc" takes the crown for being so spectacularly lazy it makes your triple "Updates from Overleaf" spam look like Shakespeare.*
 <!-- ROAST_END -->
