@@ -1,1 +1,48 @@
-docs/superpowers/
+# Ignore documentation output and build directories
+docs/
+doc/
+documentation/
+*.docset/
+*.pdf
+.claude/
+.claude-cache/
+.claude-history/
+.claude-config.json
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+env/
+venv/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+
+# VSCode & Editor configs
+.vscode/
+.idea/
+
+# Miscellaneous
+logs/
+*.log
+tmp/
+temp/
+.cache/
+/dist
+/build
+coverage/
+# End of Selection
+```
