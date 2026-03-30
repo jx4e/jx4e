@@ -4,9 +4,12 @@ import anthropic
 
 
 def fetch_commits(username: str, count: int = 30) -> list[dict]:
-    """Fetch the last `count` commit messages from a user's public GitHub events."""
-    url = f"https://api.github.com/users/{username}/events/public"
-    response = requests.get(url, params={"per_page": 100})
+    """Fetch the last `count` commit messages from a user's GitHub events."""
+    token = os.environ.get("GITHUB_TOKEN")
+    headers = {"Authorization": f"Bearer {token}"} if token else {}
+    # Without auth: public events only. With auth: includes private repo events.
+    url = f"https://api.github.com/users/{username}/events"
+    response = requests.get(url, params={"per_page": 100}, headers=headers)
     response.raise_for_status()
 
     commits = []
