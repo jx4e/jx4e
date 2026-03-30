@@ -22,12 +22,12 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 | S&P 500 | 6,368.85 | 🔴 -1.67% |
 | NASDAQ | 20,948.36 | 🔴 -2.15% |
 | Dow | 45,166.64 | 🔴 -1.73% |
-| FTSE 100 | 9,967.40 | 🔴 -0.05% |
+| FTSE 100 | 10,045.57 | 🟢 +0.81% |
 
-*My code has fewer bugs today than the market has red numbers: S&P -1.67%, NASDAQ -2.15%, Dow -1.73% - at least the FTSE only dropped 0.05% like my test coverage.*
+*My code has better uptime than the NASDAQ today - at least my bugs only crash applications, not portfolios by 2.15%.*
 
 **Latest headlines:**
-- [Oil rises above $115 and Asia stocks slide as Iran war escalates](https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss)
+- [Oil rises above $115 and Asia shares slide as Iran war enters fifth week](https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss)
 - [Compensation details for millions of drivers set to be revealed](https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss)
 - [Tech CEOs suddenly love blaming AI for mass job cuts. Why?](https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
@@ -59,7 +59,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Sunday vibes: debugging life one lazy commit at a time ☕️🛋️💻
+Monday morning means fresh commits and endless possibilities! ☕💻✨
 <!-- GREETING_END -->
 
 ---
@@ -67,5 +67,5 @@ Sunday vibes: debugging life one lazy commit at a time ☕️🛋️💻
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits read like a neurotic perfectionist's fever dream, with "debug: log push event payloads" being so lazy it makes your ASCII art flip-flopping look decisive.*
+_Your ASCII art banner had a shorter lifespan than a mayfly, but at least "debug: log push event payloads" shows you've mastered the ancient art of stating the blindingly obvious._
 <!-- ROAST_END -->
