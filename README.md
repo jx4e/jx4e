@@ -1,15 +1,10 @@
 <!-- BANNER_START -->
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    ██╗██╗  ██╗██╗  ██╗███████╗                              ║
-║    ██║╚██╗██╔╝██║  ██║██╔════╝                              ║
-║    ██║ ╚███╔╝ ███████║█████╗                                ║
-║    ██║ ██╔██╗ ╚════██║██╔══╝                                ║
-║    ██║██╔╝ ██╗     ██║███████╗                              ║
-║    ╚═╝╚═╝  ╚═╝     ╚═╝╚══════╝                              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+     ██  ██   ██ ██   ██ ███████ 
+     ██   ████  ██   ██ ██      
+     ██    ██   ███████ █████   
+██   ██   ████       ██ ██      
+ █████   ██  ██      ██ ███████
 ```
 <!-- BANNER_END -->
 
@@ -39,7 +34,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 | Dow | 45,166.64 | 🔴 -1.73% |
 | FTSE 100 | 9,967.40 | 🔴 -0.05% |
 
-*My code had fewer bugs today than the market had red numbers: S&P -1.67%, NASDAQ -2.15%, Dow -1.73% (at least FTSE only dropped 0.05%, unlike my test coverage).*
+*My code has fewer bugs than the market has red numbers today: S&P -1.67%, NASDAQ -2.15%, Dow -1.73% (at least FTSE only dropped 0.05% like a minor syntax warning).*
 
 **Latest headlines:**
 - [Oil rises above $115 and Asia stocks slide as Iran war escalates](https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss)
@@ -74,7 +69,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Sunday vibes: debugging with coffee and zero urgency ☕️💻✨
+Hey there! 🌟 Sunday coding vibes: debugging with coffee and zero deadline stress ☕
 <!-- GREETING_END -->
 
 ---
@@ -82,5 +77,5 @@ Sunday vibes: debugging with coffee and zero urgency ☕️💻✨
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits read like a developer having an existential crisis with AI features, but "Fix introduction text formatting in README" is so breathtakingly lazy it makes your debug logs look like Shakespeare.*
+*Your commits read like a developer's descent into madness, from building actual features to obsessively tweaking AI-generated ASCII art banners, but "merge: bring in existing repo history" takes the crown for being so lazy it couldn't even be bothered to explain what history or why anyone should care.*
 <!-- ROAST_END -->
