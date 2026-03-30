@@ -48,9 +48,11 @@ def generate() -> str:
             {
                 "role": "user",
                 "content": (
-                    "Here are my recent GitHub commit messages. Write 1-2 sentences brutally summarising "
-                    "how bad my commit message hygiene is. Be blunt and specific — call out lazy messages "
-                    "like 'fix', 'wip', 'update' by name if you see them. Plain text only, no markdown.\n\n"
+                    "Here are my recent GitHub commit messages. Roast them in one punchy sentence — "
+                    "funny, mean, specific. Then on a new line add a single emoji that sums up the vibe. "
+                    "Call out the laziest message by name. Respond in this exact markdown format:\n\n"
+                    "> [your roast sentence]\n\n"
+                    "[emoji]\n\n"
                     f"Commits:\n{commit_list}"
                 ),
             }
