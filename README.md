@@ -30,6 +30,17 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 📈 Markets
 
 <!-- MARKET_START -->
+| Index | Price | Day |
+|---|---|---|
+| S&P 500 | 6,368.85 | 🔴 -1.67% |
+| NASDAQ | 20,948.36 | 🔴 -2.15% |
+| Dow | 45,166.64 | 🔴 -1.73% |
+| FTSE 100 | 9,967.40 | 🔴 -0.05% |
+
+**Latest headlines:**
+- [Compensation details for millions of drivers set to be revealed](https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss)
+- [Tech CEOs suddenly love blaming AI for mass job cuts. Why?](https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss)
+- [Cut taxes on energy bills before giving bailouts, Badenoch says](https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -59,7 +70,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Sunday debugging sessions hit different - sometimes the best code comes from pajama-driven development ☕🐛💻
+Happy Sunday! Time to debug my sleep schedule and commit to a day of rest 😴💤🔄
 <!-- GREETING_END -->
 
 ---
@@ -67,5 +78,5 @@ Sunday debugging sessions hit different - sometimes the best code comes from paj
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a narcissistic spiral of over-engineering a roast bot while "abc" sits there like the digital equivalent of giving up on life.*
+*You've got a touching commitment to semantic commits until "Fix introduction text formatting in README" showed up like that one friend who doesn't follow the group chat format and ruins everything.*
 <!-- ROAST_END -->
