@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Monday morning means fresh commits and endless possibilities! ☕💻✨
+Monday morning coffee brewing ☕ - time to debug the weekend and deploy some fresh code! 🚀
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Monday morning means fresh commits and endless possibilities! ☕💻✨
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 6,368.85 | 🔴 -1.67% |
-| NASDAQ | 20,948.36 | 🔴 -2.15% |
-| Dow | 45,166.64 | 🔴 -1.73% |
-| FTSE 100 | 10,045.57 | 🟢 +0.81% |
+| S&P 500 | 6,343.72 | 🔴 -0.39% |
+| NASDAQ | 20,794.64 | 🔴 -0.73% |
+| Dow | 45,216.14 | 🟢 +0.11% |
+| FTSE 100 | 10,127.96 | 🟢 +1.61% |
 
-*My code has better uptime than the NASDAQ today - at least my bugs only crash applications, not portfolios by 2.15%.*
+*My code has better consistency than today's markets - while the S&P dropped 0.39% and NASDAQ crashed 0.73%, somehow the Dow managed +0.11% and FTSE flexed with +1.61%, proving even random market movements have fewer bugs than my first commits.*
 
 **Latest headlines:**
-- [Oil rises above $115 and Asia shares slide as Iran war enters fifth week](https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss)
-- [Compensation details for millions of drivers set to be revealed](https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss)
-- [Tech CEOs suddenly love blaming AI for mass job cuts. Why?](https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss)
+- [Millions of drivers mis-sold car finance to receive average £829 in compensation](https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss)
+- [How will car finance compensation payments work? ](https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss)
+- [What was the 1970s oil crisis, and are we heading for something worse?](https://www.bbc.com/news/articles/c78lj4976lvo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Monday morning means fresh commits and endless possibilities! ☕💻✨
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-_Your ASCII art banner had a shorter lifespan than a mayfly, but at least "debug: log push event payloads" shows you've mastered the ancient art of stating the blindingly obvious._
+*Your commit history reads like a manic episode where you added ASCII art, immediately regretted it, then spent 5 commits tweaking it before deleting it entirely, but "debug: log push event payloads" takes the crown for sounding like you just mashed your keyboard after giving up on life.*
 <!-- ROAST_END -->
