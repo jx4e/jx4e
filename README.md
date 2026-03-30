@@ -16,7 +16,7 @@
 # 👋 Hello, I'm Jake
 
 <!-- GREETING_START -->
-Monday motivation: turning coffee into code, one commit at a time! ☕💻✨
+Sunday vibes: debugging with coffee and zero meetings scheduled ☕️🐛✨
 <!-- GREETING_END -->
 
 I'm a software engineer from the UK studying CS @ UBC.
@@ -48,5 +48,5 @@ I'm a software engineer from the UK studying CS @ UBC.
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You've built an entire AI-powered commit roasting system just to avoid writing decent commit messages yourself, with "abc" being the crown jewel of your lazy messaging empire.*
+*Your commits read like a developer having a very public mental breakdown, especially "abc" which somehow manages to be even lazier than just mashing your keyboard with your forehead.*
 <!-- ROAST_END -->
