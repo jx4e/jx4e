@@ -39,7 +39,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 | Dow | 45,166.64 | 🔴 -1.73% |
 | FTSE 100 | 9,967.40 | 🔴 -0.05% |
 
-*Today my code had fewer bugs than the market had red candles: S&P -1.67%, NASDAQ -2.15%, Dow -1.73%, but hey at least FTSE only dropped 0.05% so someone's having a better day than my build pipeline.*
+*My code debugs better than the market today: S&P down 1.67%, NASDAQ crashed 2.15%, Dow dropped 1.73% - at least my bugs don't cost billions.*
 
 **Latest headlines:**
 - [Compensation details for millions of drivers set to be revealed](https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss)
@@ -74,7 +74,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Ready to debug the weekend away? Sunday coding sessions hit different! ☕🐛💻
+Hey there! 🌅 Sunday coding sessions hit different - grab some coffee and let's build something awesome together! ☕
 <!-- GREETING_END -->
 
 ---
@@ -82,5 +82,5 @@ Ready to debug the weekend away? Sunday coding sessions hit different! ☕🐛�
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a caffeinated developer's diary, but "Fix introduction text formatting in README" is so spectacularly lazy it makes your debug messages look Shakespearean.*
+*Your commit messages read like a developer having an existential crisis in real-time, but "merge: bring in existing repo history" takes the crown for being so aggressively lazy it makes "git commit -m 'stuff'" look eloquent.*
 <!-- ROAST_END -->
