@@ -19,6 +19,7 @@
 I’m a software engineer from the UK studying CS @ UBC.
 
 <!-- ROAST_START -->
+_No recent commits to roast. Suspiciously quiet..._
 <!-- ROAST_END -->
 
 ## 🧰 My Stack
