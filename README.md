@@ -19,7 +19,11 @@
 I’m a software engineer from the UK studying CS @ UBC.
 
 <!-- ROAST_START -->
-Your commit hygiene is schizophrenic — you write proper conventional commits with meaningful descriptions for jx4e but completely abandon all standards for your other repos with garbage like "abc", "edits", and the lazy "Updates from Overleaf" repeated four times in a row. The fact that you can write good commits proves you know better, making the throwaway messages like "- Day6!" and "- Initial Commit" even more inexcusable.
+> Your commit messages read like a developer who built an AI roasting tool but somehow still managed to write "abc" and "edits" like a freshman who just discovered version control.
+
+😬
+
+The laziest message is definitely "abc" - even your cat walking across the keyboard would have more descriptive commit etiquette.
 <!-- ROAST_END -->
 
 ## 🧰 My Stack
