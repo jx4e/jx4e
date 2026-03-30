@@ -4,31 +4,27 @@ import anthropic
 
 
 def fetch_commits(username: str, count: int = 30) -> list[dict]:
-    """Fetch the last `count` commit messages from a user's GitHub events."""
+    """Fetch the last `count` commits authored by `username` via the Search API."""
     token = os.environ.get("GH_PAT") or os.environ.get("GITHUB_TOKEN")
-    headers = {"Authorization": f"Bearer {token}"} if token else {}
-    # GH_PAT (user PAT) required to see private repo events.
-    # GITHUB_TOKEN fallback only sees public events.
-    url = f"https://api.github.com/users/{username}/events"
-    response = requests.get(url, params={"per_page": 100}, headers=headers)
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+    } if token else {}
+    url = "https://api.github.com/search/commits"
+    response = requests.get(url, params={
+        "q": f"author:{username}",
+        "sort": "author-date",
+        "order": "desc",
+        "per_page": count,
+    }, headers=headers)
     response.raise_for_status()
 
-    events = response.json()
-    event_types = [e["type"] for e in events]
-    print(f"[debug] total events: {len(events)}")
-    print(f"[debug] event types: {event_types[:20]}")
-    for e in events[:3]:
-        print(f"[debug] payload keys: {list(e['payload'].keys())}, commits: {e['payload'].get('commits')}")
-
     commits = []
-    for event in events:
-        if event["type"] != "PushEvent":
-            continue
-        repo = event["repo"]["name"]
-        for commit in event["payload"].get("commits", []):
-            commits.append({"message": commit["message"], "repo": repo})
-            if len(commits) >= count:
-                return commits
+    for item in response.json().get("items", []):
+        commits.append({
+            "message": item["commit"]["message"].splitlines()[0],  # first line only
+            "repo": item["repository"]["full_name"],
+        })
     return commits
 
 
