@@ -37,6 +37,8 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 | Dow | 45,166.64 | 🔴 -1.73% |
 | FTSE 100 | 9,967.40 | 🔴 -0.05% |
 
+*My code has fewer bugs than the market has red candles today: S&P down 1.67%, NASDAQ down 2.15%, Dow down 1.73% - at least my deployments only crash once.*
+
 **Latest headlines:**
 - [Compensation details for millions of drivers set to be revealed](https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss)
 - [Tech CEOs suddenly love blaming AI for mass job cuts. Why?](https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss)
@@ -70,7 +72,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Sunday! Time to debug my sleep schedule and commit to a day of rest 😴💤🔄
+Sunday funday means debugging with coffee and no deadlines! ☕🐛✨
 <!-- GREETING_END -->
 
 ---
@@ -78,5 +80,5 @@ Happy Sunday! Time to debug my sleep schedule and commit to a day of rest 😴�
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You've got a touching commitment to semantic commits until "Fix introduction text formatting in README" showed up like that one friend who doesn't follow the group chat format and ruins everything.*
+*Your commit messages read like a programmer having an existential crisis while building a self-roasting machine, with "Fix introduction text formatting in README" being so pathetically generic it could've been written by a drunk intern using autocomplete.*
 <!-- ROAST_END -->
