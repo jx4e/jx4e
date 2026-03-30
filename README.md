@@ -20,7 +20,7 @@ I'm a software engineer from the UK studying CS @ UBC.
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Sunday vibes: debugging with coffee and zero meetings scheduled ☕️🐛✨
+Hey there! 🌅 Sunday coding sessions hit different - grab some coffee and let's build something awesome! ☕
 <!-- GREETING_END -->
 
 ---
@@ -50,5 +50,5 @@ Sunday vibes: debugging with coffee and zero meetings scheduled ☕️🐛✨
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits read like a developer having a very public mental breakdown, especially "abc" which somehow manages to be even lazier than just mashing your keyboard with your forehead.*
+*Your commit history reads like a manic obsession with automating your own self-deprecation, but "abc" takes the crown for peak intellectual laziness — even a toddler mashing keys would add more context.*
 <!-- ROAST_END -->
