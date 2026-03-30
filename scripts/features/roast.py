@@ -13,8 +13,13 @@ def fetch_commits(username: str, count: int = 30) -> list[dict]:
     response = requests.get(url, params={"per_page": 100}, headers=headers)
     response.raise_for_status()
 
+    events = response.json()
+    event_types = [e["type"] for e in events]
+    print(f"[debug] total events: {len(events)}")
+    print(f"[debug] event types: {event_types[:20]}")
+
     commits = []
-    for event in response.json():
+    for event in events:
         if event["type"] != "PushEvent":
             continue
         repo = event["repo"]["name"]
