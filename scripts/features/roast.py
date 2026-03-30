@@ -17,6 +17,8 @@ def fetch_commits(username: str, count: int = 30) -> list[dict]:
     event_types = [e["type"] for e in events]
     print(f"[debug] total events: {len(events)}")
     print(f"[debug] event types: {event_types[:20]}")
+    for e in events[:3]:
+        print(f"[debug] payload keys: {list(e['payload'].keys())}, commits: {e['payload'].get('commits')}")
 
     commits = []
     for event in events:
