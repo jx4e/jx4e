@@ -48,7 +48,7 @@ def test_fetch_commits_uses_first_line_of_message():
 def test_generate_returns_placeholder_when_no_commits():
     with patch("features.roast.requests.get", return_value=_mock_response(EMPTY_SEARCH_RESPONSE)):
         result = generate()
-    assert "Suspiciously quiet" in result
+    assert "lazy" in result
 
 
 def test_generate_calls_claude_and_returns_response():
