@@ -16,7 +16,10 @@
 ```
 # 👋 Hello, I’m Jake
 
-I’m a software engineer from the UK studying CS @ UBC. 
+I’m a software engineer from the UK studying CS @ UBC.
+
+<!-- ROAST_START -->
+<!-- ROAST_END -->
 
 ## 🧰 My Stack
 
