@@ -16,9 +16,9 @@ def generate() -> str:
             "content": (
                 f"Today is {today}. Create ASCII art that makes 'jx4e' look visually impressive. "
                 "Use a different large figlet-style font or block letter design each day — the letters should be big and bold. "
-                "You can add a simple border or minimal decoration but keep the focus on the letters looking great. "
+                "No borders, no boxes, no frames — just the letters. "
                 "Rules: no emojis (they break monospace alignment), ASCII characters only, "
-                "keep it under 12 lines tall, under 70 characters wide. "
+                "keep it under 10 lines tall. "
                 "Return only the ASCII art wrapped in a markdown code block (```). Nothing else."
             ),
         }],
