@@ -1,23 +1,15 @@
 <!-- BANNER_START -->
 ```
-    ╔══════════════════════════════════════════════════════════════╗
-    ║  🌸 Spring Awakening 2026 🌸                                 ║
-    ║                                                              ║
-    ║     ░░░░    ░░░░  ░░░░░░░░      ░░░░░░░░      ░░░░░░░░       ║
-    ║       ░░    ░░          ░░      ░░    ░░      ░░             ║
-    ║       ░░    ░░        ░░        ░░    ░░      ░░░░░░         ║
-    ║   ░░  ░░░░  ░░      ░░          ░░░░░░░░      ░░             ║
-    ║     ░░  ░░  ░░    ░░  ░░  ░░    ░░    ░░      ░░░░░░░░       ║
-    ║                                                              ║
-    ║   🌱       ┌─────────────────────────────────────┐      🌿  ║
-    ║         🌷 │  Coding through the seasons         │ 🌺      ║
-    ║   🌸      │  Building dreams line by line        │       🌻 ║
-    ║         🌼 │  Where innovation blooms eternal     │ 🌹      ║
-    ║            └─────────────────────────────────────┘          ║
-    ║                                                              ║
-    ║    🦋  March winds bring April showers...  🐝               ║
-    ║        and fresh commits to the repository!  🌱             ║
-    ╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    ██╗██╗  ██╗██╗  ██╗███████╗                              ║
+║    ██║╚██╗██╔╝██║  ██║██╔════╝                              ║
+║    ██║ ╚███╔╝ ███████║█████╗                                ║
+║    ██║ ██╔██╗ ╚════██║██╔══╝                                ║
+║    ██║██╔╝ ██╗     ██║███████╗                              ║
+║    ╚═╝╚═╝  ╚═╝     ╚═╝╚══════╝                              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 <!-- BANNER_END -->
 
@@ -47,7 +39,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 | Dow | 45,166.64 | 🔴 -1.73% |
 | FTSE 100 | 9,967.40 | 🔴 -0.05% |
 
-*My code has fewer bugs today than the market has red numbers: S&P -1.67%, NASDAQ -2.15%, Dow -1.73% (at least FTSE only dropped 0.05% like my test coverage).*
+*My code had fewer bugs today than the market had red numbers: S&P -1.67%, NASDAQ -2.15%, Dow -1.73% (at least FTSE only dropped 0.05%, unlike my test coverage).*
 
 **Latest headlines:**
 - [Oil rises above $115 and Asia stocks slide as Iran war escalates](https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss)
@@ -82,7 +74,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Sunday funday! Taking a break from pushing commits to push the boundaries of relaxation 🛋️☕️💻
+Sunday vibes: debugging with coffee and zero urgency ☕️💻✨
 <!-- GREETING_END -->
 
 ---
@@ -90,5 +82,5 @@ Sunday funday! Taking a break from pushing commits to push the boundaries of rel
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You've written 30 commits obsessing over AI-generated content and README formatting for recruiters, but "restore: use existing profile README" is so lazy it makes your debug logs look like Shakespeare.*
+*Your commits read like a developer having an existential crisis with AI features, but "Fix introduction text formatting in README" is so breathtakingly lazy it makes your debug logs look like Shakespeare.*
 <!-- ROAST_END -->
