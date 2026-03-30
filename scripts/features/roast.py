@@ -14,7 +14,7 @@ def fetch_commits(username: str, count: int = 30) -> list[dict]:
         if event["type"] != "PushEvent":
             continue
         repo = event["repo"]["name"]
-        for commit in event["payload"]["commits"]:
+        for commit in event["payload"].get("commits", []):
             commits.append({"message": commit["message"], "repo": repo})
             if len(commits) >= count:
                 return commits
