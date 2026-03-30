@@ -1,26 +1,23 @@
-
 ```
 ------------------------------------------------------------------------------------------------------------------------
 
                                           /$$$$$ /$$   /$$ /$$   /$$ /$$$$$$$$
                                          |__  $$| $$  / $$| $$  | $$| $$_____/
-                                            | $$|  $$/ $$/| $$  | $$| $$      
-                                            | $$ \  $$$$/ | $$$$$$$$| $$$$$   
-                                       /$$  | $$  >$$  $$ |_____  $$| $$__/   
-                                      | $$  | $$ /$$/\  $$      | $$| $$      
+                                            | $$|  $$/ $$/| $$  | $$| $$
+                                            | $$ \  $$$$/ | $$$$$$$$| $$$$$
+                                       /$$  | $$  >$$  $$ |_____  $$| $$__/
+                                      | $$  | $$ /$$/\  $$      | $$| $$
                                       |  $$$$$$/| $$  \ $$      | $$| $$$$$$$$
                                        \______/ |__/  |__/      |__/|________/ v2.0
- 
 
 ------------------------------------------------------------------------------------------------------------------------
 ```
-# 👋 Hello, I’m Jake
 
-I’m a software engineer from the UK studying CS @ UBC.
+# 👋 Hello, I'm Jake
 
-<!-- ROAST_START -->
-*Your commits read like a developer's cry for help, especially that pathetic "abc" message that screams "I've given up on life and meaningful communication."*
-<!-- ROAST_END -->
+I'm a software engineer from the UK studying CS @ UBC.
+
+---
 
 ## 🧰 My Stack
 
@@ -42,5 +39,10 @@ I’m a software engineer from the UK studying CS @ UBC.
   />
 </a>
 
+---
 
+## 🔥 Commit Roast
 
+<!-- ROAST_START -->
+*Your commits read like a developer's cry for help, especially that pathetic "abc" message that screams "I've given up on life and meaningful communication."*
+<!-- ROAST_END -->
