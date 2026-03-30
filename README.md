@@ -1,21 +1,3 @@
-<!-- BANNER_START -->
-```
-     ██  ██   ██ ██   ██ ███████ 
-     ██   ██ ██  ██   ██ ██      
-     ██    ███   ███████ █████   
-██   ██   ██ ██      ██ ██      
- █████   ██   ██     ██ ███████ 
-
-              /\   /\
-             (  . .)  ___
-              )   ( /   \
-             (  v  ) === |
-            ^^     ^     ^^
-        [DEPLOYING CODE TO MARS]
-           \_________________/
-```
-<!-- BANNER_END -->
-
 # Jake Gaunt
 
 Software engineer from the UK, studying CS @ UBC. I like building things that are actually useful.
