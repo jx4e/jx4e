@@ -1,10 +1,12 @@
 import anthropic
-from datetime import date
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 
 def generate() -> str:
-    """Generate a daily greeting with emojis based on today's date."""
-    today = date.today()
+    """Generate a daily greeting with emojis based on today's date in Vancouver time."""
+    now = datetime.now(ZoneInfo("America/Vancouver"))
+    today = now.date()
     day_name = today.strftime("%A")
 
     client = anthropic.Anthropic()

@@ -1,6 +1,6 @@
 import os
 import sys
-from datetime import date
+from datetime import datetime, timezone, timedelta
 from unittest.mock import patch, MagicMock
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'scripts'))
@@ -28,10 +28,11 @@ def test_generate_includes_date_in_prompt():
     mock_client = MagicMock()
     mock_client.messages.create.return_value = mock_message
 
-    fixed_date = date(2026, 3, 30)  # Monday
+    # 2026-03-30 Monday 09:00 Vancouver time (UTC-7)
+    fixed_dt = datetime(2026, 3, 30, 9, 0, tzinfo=timezone(timedelta(hours=-7)))
     with patch("features.greeting.anthropic.Anthropic", return_value=mock_client), \
-         patch("features.greeting.date") as mock_date:
-        mock_date.today.return_value = fixed_date
+         patch("features.greeting.datetime") as mock_dt:
+        mock_dt.now.return_value = fixed_dt
         generate()
 
     prompt = mock_client.messages.create.call_args[1]["messages"][0]["content"]
