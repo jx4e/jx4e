@@ -52,7 +52,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🌅 Sunday coding sessions hit different - grab some coffee and let's build something awesome! ☕
+Sunday debugging sessions hit different - sometimes the best code comes from pajama-driven development ☕🐛💻
 <!-- GREETING_END -->
 
 ---
@@ -60,5 +60,5 @@ Hey there! 🌅 Sunday coding sessions hit different - grab some coffee and let'
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a manic obsession with automating your own self-deprecation, but "abc" takes the crown for peak intellectual laziness — even a toddler mashing keys would add more context.*
+*Your commit history reads like a narcissistic spiral of over-engineering a roast bot while "abc" sits there like the digital equivalent of giving up on life.*
 <!-- ROAST_END -->
