@@ -16,12 +16,14 @@ def _make_readme(content: str) -> str:
 
 def test_main_injects_roast_into_readme():
     path = _make_readme(
+        "<!-- BANNER_START -->\n<!-- BANNER_END -->\n"
         "<!-- GREETING_START -->\n<!-- GREETING_END -->\n"
         "<!-- MARKET_START -->\n<!-- MARKET_END -->\n"
         "<!-- ROAST_START -->\n<!-- ROAST_END -->\n"
     )
     try:
         with patch.dict(os.environ, {"README_PATH": path}), \
+             patch("features.banner.generate", return_value="```\njx4e\n```"), \
              patch("features.greeting.generate", return_value="Happy Sunday! 🌴"), \
              patch("features.market.generate", return_value="| Index | Price | Day |"), \
              patch("features.roast.generate", return_value="## Roast\nYou suck at naming."):
@@ -35,6 +37,8 @@ def test_main_injects_roast_into_readme():
         assert "You suck at naming." in content
         assert "Happy Sunday!" in content
         assert "| Index | Price | Day |" in content
+        assert "jx4e" in content
+        assert "<!-- BANNER_START -->" in content
         assert "<!-- ROAST_START -->" in content
         assert "<!-- GREETING_START -->" in content
         assert "<!-- MARKET_START -->" in content
