@@ -14,11 +14,11 @@ def generate() -> str:
         messages=[{
             "role": "user",
             "content": (
-                f"Today is {today}. Create a unique, creative ASCII art banner for a developer's GitHub profile. "
-                "The banner should prominently feature 'jx4e' but you have complete creative freedom on the style — "
-                "it could be a large figlet-style font, a box design, surrounded by a scene, geometric patterns, "
-                "a themed design based on the time of year, or anything else creative. "
-                "Make it different and interesting every day. "
+                f"Today is {today}. Create ASCII art that makes 'jx4e' look visually impressive. "
+                "Use a different large figlet-style font or block letter design each day — the letters should be big and bold. "
+                "You can add a simple border or minimal decoration but keep the focus on the letters looking great. "
+                "Rules: no emojis (they break monospace alignment), ASCII characters only, "
+                "keep it under 12 lines tall, under 70 characters wide. "
                 "Return only the ASCII art wrapped in a markdown code block (```). Nothing else."
             ),
         }],
