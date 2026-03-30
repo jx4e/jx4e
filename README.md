@@ -27,6 +27,13 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 
 ---
 
+## 📈 Markets
+
+<!-- MARKET_START -->
+<!-- MARKET_END -->
+
+---
+
 ## 🧰 My Stack
 
 ### Languages

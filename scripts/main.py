@@ -1,12 +1,14 @@
 import os
 from features import roast
 from features import greeting
+from features import market
 import readme
 
 README_PATH = os.environ.get("README_PATH", "README.md")
 
 FEATURES = [
     ("GREETING", greeting.generate),
+    ("MARKET", market.generate),
     ("ROAST", roast.generate),
 ]
 
