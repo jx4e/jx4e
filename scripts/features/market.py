@@ -9,7 +9,7 @@ INDICES = [
     ("FTSE 100", "^FTSE"),
 ]
 
-RSS_URL = "https://feeds.finance.yahoo.com/rss/2.0/headline"
+RSS_URL = "https://feeds.reuters.com/reuters/businessNews"
 
 
 def fetch_prices() -> list[dict]:
