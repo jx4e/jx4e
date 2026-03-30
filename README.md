@@ -19,6 +19,8 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jake%20Gaunt-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jake-gaunt-59552b368/)
 
+> 🤖 This profile updates itself daily using a GitHub Actions workflow and the Claude AI API. The greeting, market snapshot, and commit roast below are all AI-generated and refresh automatically.
+
 ---
 
 ## 🚀 Projects
