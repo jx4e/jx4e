@@ -19,11 +19,7 @@
 I’m a software engineer from the UK studying CS @ UBC.
 
 <!-- ROAST_START -->
-> Your commit messages read like a developer who built an AI roasting tool but somehow still managed to write "abc" and "edits" like a freshman who just discovered version control.
-
-😬
-
-The laziest message is definitely "abc" - even your cat walking across the keyboard would have more descriptive commit etiquette.
+*Your commits read like a developer's cry for help, especially that pathetic "abc" message that screams "I've given up on life and meaningful communication."*
 <!-- ROAST_END -->
 
 ## 🧰 My Stack
