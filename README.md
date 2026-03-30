@@ -15,6 +15,9 @@
 
 # 👋 Hello, I'm Jake
 
+<!-- GREETING_START -->
+<!-- GREETING_END -->
+
 I'm a software engineer from the UK studying CS @ UBC.
 
 ---

@@ -15,19 +15,24 @@ def _make_readme(content: str) -> str:
 
 
 def test_main_injects_roast_into_readme():
-    path = _make_readme("<!-- ROAST_START -->\n<!-- ROAST_END -->\n")
+    path = _make_readme(
+        "<!-- GREETING_START -->\n<!-- GREETING_END -->\n"
+        "<!-- ROAST_START -->\n<!-- ROAST_END -->\n"
+    )
     try:
         with patch.dict(os.environ, {"README_PATH": path}), \
+             patch("features.greeting.generate", return_value="Happy Sunday! 🌴"), \
              patch("features.roast.generate", return_value="## Roast\nYou suck at naming."):
             import main
             import importlib
-            importlib.reload(main)  # ensure env var is picked up fresh
+            importlib.reload(main)
             main.run()
 
         with open(path) as f:
             content = f.read()
         assert "You suck at naming." in content
+        assert "Happy Sunday!" in content
         assert "<!-- ROAST_START -->" in content
-        assert "<!-- ROAST_END -->" in content
+        assert "<!-- GREETING_START -->" in content
     finally:
         os.unlink(path)
