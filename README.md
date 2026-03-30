@@ -15,11 +15,13 @@
 
 # 👋 Hello, I'm Jake
 
+I'm a software engineer from the UK studying CS @ UBC.
+
+## 💬 Greeting of the Day
+
 <!-- GREETING_START -->
 Sunday vibes: debugging with coffee and zero meetings scheduled ☕️🐛✨
 <!-- GREETING_END -->
-
-I'm a software engineer from the UK studying CS @ UBC.
 
 ---
 
