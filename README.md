@@ -1,4 +1,24 @@
 <!-- BANNER_START -->
+```
+    ╔══════════════════════════════════════════════════════════════╗
+    ║  🌸 Spring Awakening 2026 🌸                                 ║
+    ║                                                              ║
+    ║     ░░░░    ░░░░  ░░░░░░░░      ░░░░░░░░      ░░░░░░░░       ║
+    ║       ░░    ░░          ░░      ░░    ░░      ░░             ║
+    ║       ░░    ░░        ░░        ░░    ░░      ░░░░░░         ║
+    ║   ░░  ░░░░  ░░      ░░          ░░░░░░░░      ░░             ║
+    ║     ░░  ░░  ░░    ░░  ░░  ░░    ░░    ░░      ░░░░░░░░       ║
+    ║                                                              ║
+    ║   🌱       ┌─────────────────────────────────────┐      🌿  ║
+    ║         🌷 │  Coding through the seasons         │ 🌺      ║
+    ║   🌸      │  Building dreams line by line        │       🌻 ║
+    ║         🌼 │  Where innovation blooms eternal     │ 🌹      ║
+    ║            └─────────────────────────────────────┘          ║
+    ║                                                              ║
+    ║    🦋  March winds bring April showers...  🐝               ║
+    ║        and fresh commits to the repository!  🌱             ║
+    ╚══════════════════════════════════════════════════════════════╝
+```
 <!-- BANNER_END -->
 
 # Jake Gaunt
@@ -27,12 +47,12 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 | Dow | 45,166.64 | 🔴 -1.73% |
 | FTSE 100 | 9,967.40 | 🔴 -0.05% |
 
-*My code debugs better than the market today: S&P down 1.67%, NASDAQ crashed 2.15%, Dow dropped 1.73% - at least my bugs don't cost billions.*
+*My code has fewer bugs today than the market has red numbers: S&P -1.67%, NASDAQ -2.15%, Dow -1.73% (at least FTSE only dropped 0.05% like my test coverage).*
 
 **Latest headlines:**
+- [Oil rises above $115 and Asia stocks slide as Iran war escalates](https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss)
 - [Compensation details for millions of drivers set to be revealed](https://www.bbc.com/news/articles/c9vlm2ggrwlo?at_medium=RSS&at_campaign=rss)
 - [Tech CEOs suddenly love blaming AI for mass job cuts. Why?](https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss)
-- [Cut taxes on energy bills before giving bailouts, Badenoch says](https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -62,7 +82,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🌅 Sunday coding sessions hit different - grab some coffee and let's build something awesome together! ☕
+Sunday funday! Taking a break from pushing commits to push the boundaries of relaxation 🛋️☕️💻
 <!-- GREETING_END -->
 
 ---
@@ -70,5 +90,5 @@ Hey there! 🌅 Sunday coding sessions hit different - grab some coffee and let'
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages read like a developer having an existential crisis in real-time, but "merge: bring in existing repo history" takes the crown for being so aggressively lazy it makes "git commit -m 'stuff'" look eloquent.*
+*You've written 30 commits obsessing over AI-generated content and README formatting for recruiters, but "restore: use existing profile README" is so lazy it makes your debug logs look like Shakespeare.*
 <!-- ROAST_END -->
