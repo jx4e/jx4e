@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Tuesday vibes: debugging yesterday's code and caffeinating for tomorrow's features ☕💻🔧
+Hey there! 🐛 It's Wednesday - perfect day for squashing bugs and brewing some fresh code! ☕
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Tuesday vibes: debugging yesterday's code and caffeinating for tomorrow's featur
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 6,343.72 | 🔴 -0.39% |
-| NASDAQ | 20,794.64 | 🔴 -0.73% |
-| Dow | 45,216.14 | 🟢 +0.11% |
-| FTSE 100 | 10,195.73 | 🟢 +0.85% |
+| S&P 500 | 6,528.52 | 🟢 +2.91% |
+| NASDAQ | 21,590.63 | 🟢 +3.83% |
+| Dow | 46,341.51 | 🟢 +2.49% |
+| FTSE 100 | 10,356.40 | 🟢 +1.73% |
 
-*My code has better consistency than today's markets - while my functions either work or don't, apparently indices can't decide if they're the Dow (+0.11%) or the NASDAQ (-0.73%).*
+*My code compiles more often than the NASDAQ's 3.83% daily gain, but somehow my portfolio still has more bugs than my JavaScript.*
 
 **Latest headlines:**
-- [Housing market to soften amid Iran war fallout, Nationwide says](https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&at_campaign=rss)
-- ['I sent eight letters': Drivers hope for payout from car finance redress scheme](https://www.bbc.com/news/articles/c20dxdy33llo?at_medium=RSS&at_campaign=rss)
-- [How will car finance compensation payments work? ](https://www.bbc.com/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss)
+- [Estate agents accuse Rightmove of charging excessive fees](https://www.bbc.com/news/articles/cn0yle5rrp8o?at_medium=RSS&at_campaign=rss)
+- [Energy bill help would be based on household income, Reeves says](https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss)
+- [Minimum wage rises to £12.71 an hour as firms warn of impact](https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Tuesday vibes: debugging yesterday's code and caffeinating for tomorrow's featur
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You've somehow made "README" look verbose compared to "first commit," and frankly that takes talent — the kind of talent that suggests you treat commit messages like grocery lists where "milk" is apparently sufficient detail.*
+*Your commit messages read like a developer's descent into madness, with "README" being so criminally lazy it makes "first commit" look like Shakespearean prose.*
 <!-- ROAST_END -->
