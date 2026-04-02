@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🐛 It's Wednesday - perfect day for squashing bugs and brewing some fresh code! ☕
+Happy Thursday! Almost at the weekend finish line - time to squash those bugs before the final sprint! 🐛🏁💻
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Hey there! 🐛 It's Wednesday - perfect day for squashing bugs and brewing some
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 6,528.52 | 🟢 +2.91% |
-| NASDAQ | 21,590.63 | 🟢 +3.83% |
-| Dow | 46,341.51 | 🟢 +2.49% |
-| FTSE 100 | 10,356.40 | 🟢 +1.73% |
+| S&P 500 | 6,575.32 | 🟢 +0.72% |
+| NASDAQ | 21,840.95 | 🟢 +1.16% |
+| Dow | 46,565.74 | 🟢 +0.48% |
+| FTSE 100 | 10,361.37 | 🟢 +0.08% |
 
-*My code compiles more often than the NASDAQ's 3.83% daily gain, but somehow my portfolio still has more bugs than my JavaScript.*
+*My code commits are more consistent than the Dow's 0.48% gains, but somehow the NASDAQ's 1.16% still outperforms my debugging skills.*
 
 **Latest headlines:**
-- [Estate agents accuse Rightmove of charging excessive fees](https://www.bbc.com/news/articles/cn0yle5rrp8o?at_medium=RSS&at_campaign=rss)
-- [Energy bill help would be based on household income, Reeves says](https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss)
-- [Minimum wage rises to £12.71 an hour as firms warn of impact](https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&at_campaign=rss)
+- [Oil prices soar after Trump threatens more Iran strikes](https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss)
+- [New laws to make it easier to cancel subscriptions and get refunds](https://www.bbc.com/news/articles/cvg0v36ek2go?at_medium=RSS&at_campaign=rss)
+- [A year on: Four ways Trump's tariffs have changed the global economy](https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🐛 It's Wednesday - perfect day for squashing bugs and brewing some
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages read like a developer's descent into madness, with "README" being so criminally lazy it makes "first commit" look like Shakespearean prose.*
+*Your commit messages are a masterclass in verbose mediocrity, but "README" takes the crown for being so spectacularly lazy it makes "first commit" look like Shakespeare.*
 <!-- ROAST_END -->
