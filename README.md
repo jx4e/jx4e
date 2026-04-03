@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Thursday! Almost at the weekend finish line - time to squash those bugs before the final sprint! 🐛🏁💻
+Hey there! 🚀 Ready to deploy some weekend-worthy code this Friday? ☕
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Happy Thursday! Almost at the weekend finish line - time to squash those bugs be
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 6,575.32 | 🟢 +0.72% |
-| NASDAQ | 21,840.95 | 🟢 +1.16% |
-| Dow | 46,565.74 | 🟢 +0.48% |
-| FTSE 100 | 10,361.37 | 🟢 +0.08% |
+| S&P 500 | 6,582.69 | 🟢 +0.11% |
+| NASDAQ | 21,879.18 | 🟢 +0.18% |
+| Dow | 46,504.67 | 🔴 -0.13% |
+| FTSE 100 | 10,436.30 | 🟢 +0.69% |
 
-*My code commits are more consistent than the Dow's 0.48% gains, but somehow the NASDAQ's 1.16% still outperforms my debugging skills.*
+*My code has better consistency than today's markets - while the Dow went down 0.13%, the S&P and NASDAQ managed to stay positive like my test coverage.*
 
 **Latest headlines:**
-- [Oil prices soar after Trump threatens more Iran strikes](https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss)
-- [New laws to make it easier to cancel subscriptions and get refunds](https://www.bbc.com/news/articles/cvg0v36ek2go?at_medium=RSS&at_campaign=rss)
-- [A year on: Four ways Trump's tariffs have changed the global economy](https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss)
+- ['I ended up paying £500': Your subscription trap stories](https://www.bbc.com/news/articles/cz78lv9qej4o?at_medium=RSS&at_campaign=rss)
+- [M&S boss calls for more action on crime and abuse of staff](https://www.bbc.com/news/articles/crk16j2j1ygo?at_medium=RSS&at_campaign=rss)
+- [Oil prices jump and shares drop after Trump threatens more Iran strikes](https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Thursday! Almost at the weekend finish line - time to squash those bugs be
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages are a masterclass in verbose mediocrity, but "README" takes the crown for being so spectacularly lazy it makes "first commit" look like Shakespeare.*
+*Your commit history reads like a descent into madness where "README" somehow passed your quality control as acceptable documentation, while you obsessively tweaked ASCII art banners and debug logs like a developer having an existential crisis about whether emojis belong in terminal output.*
 <!-- ROAST_END -->
