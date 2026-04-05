@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🌟 Saturday coding session in progress - because the best bugs are caught on weekends! ☕
+Sunday vibes: debugging life one coffee at a time ☕ 🐛 ✨
 <!-- GREETING_END -->
 
 ---
@@ -32,7 +32,7 @@ Hey there! 🌟 Saturday coding session in progress - because the best bugs are 
 | Dow | 46,504.67 | 🔴 -0.13% |
 | FTSE 100 | 10,436.30 | 🟢 +0.69% |
 
-*My code has better consistency than today's markets - while the Dow dropped 0.13%, S&P gained 0.11%, and NASDAQ climbed 0.18%, at least my bugs are reproducible.*
+*My code has more consistent performance than today's markets - at least when my tests fail, they all fail together instead of this S&P +0.11%, NASDAQ +0.18%, Dow -0.13% chaos.*
 
 **Latest headlines:**
 - [State pension age starts rising to 67 - here's how much you get and when](https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss)
@@ -45,5 +45,5 @@ Hey there! 🌟 Saturday coding session in progress - because the best bugs are 
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You went from "README" — the commit message equivalent of grunting — to writing novellas about ASCII art tweaks, proving that overcompensation is just as cringe as laziness.*
+*Your commit messages read like a diary of someone who can't decide if they want ASCII art or not, but "README" takes the crown for being so lazy it makes "first commit" look like Shakespeare.*
 <!-- ROAST_END -->
