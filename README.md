@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Sunday vibes: debugging life one coffee at a time ☕ 🐛 ✨
+Monday means merge conflicts and fresh coffee! ☕️ Let's code our way to a productive week 💻
 <!-- GREETING_END -->
 
 ---
@@ -32,12 +32,12 @@ Sunday vibes: debugging life one coffee at a time ☕ 🐛 ✨
 | Dow | 46,504.67 | 🔴 -0.13% |
 | FTSE 100 | 10,436.30 | 🟢 +0.69% |
 
-*My code has more consistent performance than today's markets - at least when my tests fail, they all fail together instead of this S&P +0.11%, NASDAQ +0.18%, Dow -0.13% chaos.*
+*Just like my code commits, the markets today were mostly green with minor bugs - S&P gained 0.11%, NASDAQ pushed 0.18%, but the Dow threw a -0.13% exception while FTSE 100 deployed successfully with a solid 0.69% performance boost.*
 
 **Latest headlines:**
-- [State pension age starts rising to 67 - here's how much you get and when](https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss)
-- [French-owned ship passes through Strait of Hormuz](https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss)
-- ['I ended up paying £500': Your subscription trap stories](https://www.bbc.com/news/articles/cz78lv9qej4o?at_medium=RSS&at_campaign=rss)
+- [Oil prices choppy after expletive-laden Trump threat to Iran](https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss)
+- [Benefits and pensions rise as two-child cap ends](https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss)
+- [Pepsi withdraws as UK festival sponsor after Kanye West backlash](https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Sunday vibes: debugging life one coffee at a time ☕ 🐛 ✨
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages read like a diary of someone who can't decide if they want ASCII art or not, but "README" takes the crown for being so lazy it makes "first commit" look like Shakespeare.*
+*You went from the lazily profound "README" to building an entire AI-powered profile roaster, which is either the most elaborate procrastination project ever or you're slowly becoming self-aware that your commit messages need divine intervention.*
 <!-- ROAST_END -->
