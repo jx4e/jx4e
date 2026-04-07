@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Monday means merge conflicts and fresh coffee! ☕️ Let's code our way to a productive week 💻
+Hey there! 🚀 It's Tuesday - time to tackle those bugs and push some clean code! 💻
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Monday means merge conflicts and fresh coffee! ☕️ Let's code our way to a pr
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 6,582.69 | 🟢 +0.11% |
-| NASDAQ | 21,879.18 | 🟢 +0.18% |
-| Dow | 46,504.67 | 🔴 -0.13% |
-| FTSE 100 | 10,436.30 | 🟢 +0.69% |
+| S&P 500 | 6,611.83 | 🟢 +0.44% |
+| NASDAQ | 21,996.34 | 🟢 +0.54% |
+| Dow | 46,669.88 | 🟢 +0.36% |
+| FTSE 100 | 10,466.01 | 🟢 +0.36% |
 
-*Just like my code commits, the markets today were mostly green with minor bugs - S&P gained 0.11%, NASDAQ pushed 0.18%, but the Dow threw a -0.13% exception while FTSE 100 deployed successfully with a solid 0.69% performance boost.*
+*My code's performance today: more stable than the Dow (+0.36%) but still not as optimized as the NASDAQ (+0.54%) - at least we're all trending upward! 📈*
 
 **Latest headlines:**
-- [Oil prices choppy after expletive-laden Trump threat to Iran](https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss)
-- [Benefits and pensions rise as two-child cap ends](https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss)
-- [Pepsi withdraws as UK festival sponsor after Kanye West backlash](https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss)
+- [Oil prices rise ahead of Trump's Iran deal deadline](https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss)
+- [Price of first class stamp rises to £1.80](https://www.bbc.com/news/articles/c0mj4mkk94mo?at_medium=RSS&at_campaign=rss)
+- [India's high-growth economy gets a Middle East oil shock](https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Monday means merge conflicts and fresh coffee! ☕️ Let's code our way to a pr
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You went from the lazily profound "README" to building an entire AI-powered profile roaster, which is either the most elaborate procrastination project ever or you're slowly becoming self-aware that your commit messages need divine intervention.*
+*Your commit messages read like a bipolar developer's therapy journal, oscillating between obsessive ASCII art tweaking and the literary masterpiece that is "README" — because apparently even a single word was too much effort for the fathom project.*
 <!-- ROAST_END -->
