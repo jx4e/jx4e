@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🚀 It's Tuesday - time to tackle those bugs and push some clean code! 💻
+Wednesday vibes: halfway through the sprint and the code is finally compiling! ⚡💻🎯
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Hey there! 🚀 It's Tuesday - time to tackle those bugs and push some clean cod
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 6,611.83 | 🟢 +0.44% |
-| NASDAQ | 21,996.34 | 🟢 +0.54% |
-| Dow | 46,669.88 | 🟢 +0.36% |
-| FTSE 100 | 10,466.01 | 🟢 +0.36% |
+| S&P 500 | 6,616.85 | 🟢 +0.08% |
+| NASDAQ | 22,017.85 | 🟢 +0.10% |
+| Dow | 46,584.46 | 🔴 -0.18% |
+| FTSE 100 | 10,573.38 | 🟢 +2.13% |
 
-*My code's performance today: more stable than the Dow (+0.36%) but still not as optimized as the NASDAQ (+0.54%) - at least we're all trending upward! 📈*
+*My code has more consistency than today's markets - while the FTSE jumped 2.13%, the Dow couldn't even stay positive at -0.18%, making my bug-to-feature ratio look remarkably stable.*
 
 **Latest headlines:**
-- [Oil prices rise ahead of Trump's Iran deal deadline](https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss)
-- [Price of first class stamp rises to £1.80](https://www.bbc.com/news/articles/c0mj4mkk94mo?at_medium=RSS&at_campaign=rss)
-- [India's high-growth economy gets a Middle East oil shock](https://www.bbc.com/news/articles/cn43wllgn4vo?at_medium=RSS&at_campaign=rss)
+- [Oil prices plunge and shares jump on US-Iran ceasefire plan](https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss)
+- [UK house prices fall as Iran war uncertainty dampens demand](https://www.bbc.com/news/articles/cj401ll8j5zo?at_medium=RSS&at_campaign=rss)
+- [Music giant Universal gets $64bn takeover offer](https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🚀 It's Tuesday - time to tackle those bugs and push some clean cod
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages read like a bipolar developer's therapy journal, oscillating between obsessive ASCII art tweaking and the literary masterpiece that is "README" — because apparently even a single word was too much effort for the fathom project.*
+*Your commits read like a tragic love story between someone who discovered conventional commits yesterday and gave up halfway through, with "README" being the literary masterpiece that perfectly captures your descent into complete apathy.*
 <!-- ROAST_END -->
