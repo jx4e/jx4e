@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Wednesday vibes: halfway through the sprint and the code is finally compiling! ⚡💻🎯
+Thursday vibes: debugging yesterday's "quick fix" and caffeinating for tomorrow's deploy! ☕🐛🚀
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Wednesday vibes: halfway through the sprint and the code is finally compiling! �
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 6,616.85 | 🟢 +0.08% |
-| NASDAQ | 22,017.85 | 🟢 +0.10% |
-| Dow | 46,584.46 | 🔴 -0.18% |
-| FTSE 100 | 10,573.38 | 🟢 +2.13% |
+| S&P 500 | 6,782.81 | 🟢 +2.51% |
+| NASDAQ | 22,634.99 | 🟢 +2.80% |
+| Dow | 47,909.92 | 🟢 +2.85% |
+| FTSE 100 | 10,567.28 | 🔴 -0.28% |
 
-*My code has more consistency than today's markets - while the FTSE jumped 2.13%, the Dow couldn't even stay positive at -0.18%, making my bug-to-feature ratio look remarkably stable.*
+*My code commits are more consistent than global markets - US indices soaring 2.5-2.8% while FTSE managed a solid -0.28% deployment failure.*
 
 **Latest headlines:**
-- [Oil prices plunge and shares jump on US-Iran ceasefire plan](https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss)
-- [UK house prices fall as Iran war uncertainty dampens demand](https://www.bbc.com/news/articles/cj401ll8j5zo?at_medium=RSS&at_campaign=rss)
-- [Music giant Universal gets $64bn takeover offer](https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss)
+- [Oil prices rise as concerns grow over 'fragile' US-Iran ceasefire](https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss)
+- [Farmers warn of higher food costs due to Iran war](https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss)
+- [Iran Strait of Hormuz warning adds to shipping uncertainty](https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Wednesday vibes: halfway through the sprint and the code is finally compiling! �
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits read like a tragic love story between someone who discovered conventional commits yesterday and gave up halfway through, with "README" being the literary masterpiece that perfectly captures your descent into complete apathy.*
+*Your commit messages are a masterclass in inconsistency, oscillating between verbose technical novels and the literary masterpiece "abcs" — which I assume stands for "Absolutely Basic Commit" since you clearly gave up on human language entirely.*
 <!-- ROAST_END -->
