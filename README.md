@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Thursday vibes: debugging yesterday's "quick fix" and caffeinating for tomorrow's deploy! ☕🐛🚀
+Happy Friday! Time to merge those PRs and kick off the weekend 🚀✨
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Thursday vibes: debugging yesterday's "quick fix" and caffeinating for tomorrow'
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 6,782.81 | 🟢 +2.51% |
-| NASDAQ | 22,634.99 | 🟢 +2.80% |
-| Dow | 47,909.92 | 🟢 +2.85% |
-| FTSE 100 | 10,567.28 | 🔴 -0.28% |
+| S&P 500 | 6,824.66 | 🟢 +0.62% |
+| NASDAQ | 22,822.42 | 🟢 +0.83% |
+| Dow | 48,185.80 | 🟢 +0.58% |
+| FTSE 100 | 10,615.85 | 🟢 +0.34% |
 
-*My code commits are more consistent than global markets - US indices soaring 2.5-2.8% while FTSE managed a solid -0.28% deployment failure.*
+*My code commits are more consistent than today's market gains - S&P 500 +0.62%, NASDAQ +0.83%, Dow +0.58%, FTSE +0.34% - at least my bugs are reproducible.*
 
 **Latest headlines:**
-- [Oil prices rise as concerns grow over 'fragile' US-Iran ceasefire](https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss)
-- [Farmers warn of higher food costs due to Iran war](https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss)
-- [Iran Strait of Hormuz warning adds to shipping uncertainty](https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss)
+- [This coat cost $248 in illegal tariffs. Will he ever get the money back?](https://www.bbc.com/news/articles/ckgr67kgvdko?at_medium=RSS&at_campaign=rss)
+- [EU fingerprint and photo travel rules come into force](https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss)
+- [White House staff told not to place bets on prediction markets](https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Thursday vibes: debugging yesterday's "quick fix" and caffeinating for tomorrow'
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages are a masterclass in inconsistency, oscillating between verbose technical novels and the literary masterpiece "abcs" — which I assume stands for "Absolutely Basic Commit" since you clearly gave up on human language entirely.*
+*Your commit messages read like a developer who cares deeply about descriptive precision until they hit "landing" — the laziest, most context-free commit message that sounds like you fell asleep on your keyboard after depleting all your creativity on mobile chat sheet implementations.*
 <!-- ROAST_END -->
