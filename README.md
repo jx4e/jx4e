@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Weekend warrior mode: ON! Time to build something awesome just for fun 🚀💻✨
+Sunday vibes: debugging life one lazy commit at a time ☕️🐛✨
 <!-- GREETING_END -->
 
 ---
@@ -32,12 +32,12 @@ Weekend warrior mode: ON! Time to build something awesome just for fun 🚀💻�
 | Dow | 47,916.57 | 🔴 -0.56% |
 | FTSE 100 | 10,600.50 | 🔴 -0.03% |
 
-*My code has better consistency than today's markets: while the Dow dropped 0.56% and S&P fell 0.11%, NASDAQ somehow managed +0.35% - at least my bugs are reproducible.*
+*My code has better consistency than today's markets: NASDAQ up 0.35% while Dow crashes -0.56% - at least my bugs are reproducible.*
 
 **Latest headlines:**
+- [Faisal Islam: Why the government is relaxed about Chinese car imports](https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss)
+- [British Steel 'needs nationalising by the summer'](https://www.bbc.com/news/articles/cddq5zqvvejo?at_medium=RSS&at_campaign=rss)
 - [EU airline industry warns of fuel shortages if Strait of Hormuz stays closed](https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss)
-- [Tankers urged not to pay toll to Iran for use of strait](https://www.bbc.com/news/articles/c3dl0gdvvveo?at_medium=RSS&at_campaign=rss)
-- [Great at gaming? US air traffic control wants you to apply](https://www.bbc.com/news/articles/ce84rvx0e6do?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Weekend warrior mode: ON! Time to build something awesome just for fun 🚀💻�
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits are a beautiful symphony of verbose engineering poetry until "- Updated AGENTS.md" shows up like someone ordering McDonald's at a Michelin star restaurant.*
+*Your commits read like a developer's fever dream where "Boom Done" somehow passed code review alongside actual engineering work, proving that even your most detailed commit messages can't hide the fact that you gave up on professionalism exactly once and chose the laziest two words in the English language.*
 <!-- ROAST_END -->
