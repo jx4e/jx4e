@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Sunday vibes: debugging life one lazy commit at a time ☕️🐛✨
+Monday morning caffeine loading... debugging weekend brain fog ☕️🐛💻
 <!-- GREETING_END -->
 
 ---
@@ -30,14 +30,14 @@ Sunday vibes: debugging life one lazy commit at a time ☕️🐛✨
 | S&P 500 | 6,816.89 | 🔴 -0.11% |
 | NASDAQ | 22,902.89 | 🟢 +0.35% |
 | Dow | 47,916.57 | 🔴 -0.56% |
-| FTSE 100 | 10,600.50 | 🔴 -0.03% |
+| FTSE 100 | 10,555.76 | 🔴 -0.38% |
 
-*My code has better consistency than today's markets: NASDAQ up 0.35% while Dow crashes -0.56% - at least my bugs are reproducible.*
+*My code commits are more consistent than today's markets: S&P down 0.11%, NASDAQ up 0.35%, Dow down 0.56%, FTSE down 0.38% - at least my bugs are predictably reproducible.*
 
 **Latest headlines:**
-- [Faisal Islam: Why the government is relaxed about Chinese car imports](https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss)
-- [British Steel 'needs nationalising by the summer'](https://www.bbc.com/news/articles/cddq5zqvvejo?at_medium=RSS&at_campaign=rss)
-- [EU airline industry warns of fuel shortages if Strait of Hormuz stays closed](https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss)
+- [Oil jumps back above $100 after US-Iran peace talks fail](https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss)
+- [What is a naval blockade and how would it work in Strait of Hormuz?](https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss)
+- [UK could adopt EU single market rules under new legislation](https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Sunday vibes: debugging life one lazy commit at a time ☕️🐛✨
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits read like a developer's fever dream where "Boom Done" somehow passed code review alongside actual engineering work, proving that even your most detailed commit messages can't hide the fact that you gave up on professionalism exactly once and chose the laziest two words in the English language.*
+*Your commit messages read like a Jekyll and Hyde situation where Dr. Jekyll writes proper conventional commits and Mr. Hyde drops bombs like "Boom Done" — which sounds like what a toddler says after successfully using the potty.*
 <!-- ROAST_END -->
