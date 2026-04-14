@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Monday morning caffeine loading... debugging weekend brain fog ☕️🐛💻
+Happy Tuesday! ☕ Debugging my way through the week, one commit at a time 🐛
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Monday morning caffeine loading... debugging weekend brain fog ☕️🐛💻
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 6,816.89 | 🔴 -0.11% |
-| NASDAQ | 22,902.89 | 🟢 +0.35% |
-| Dow | 47,916.57 | 🔴 -0.56% |
-| FTSE 100 | 10,555.76 | 🔴 -0.38% |
+| S&P 500 | 6,886.24 | 🟢 +1.02% |
+| NASDAQ | 23,183.74 | 🟢 +1.23% |
+| Dow | 48,218.25 | 🟢 +0.63% |
+| FTSE 100 | 10,599.72 | 🟢 +0.19% |
 
-*My code commits are more consistent than today's markets: S&P down 0.11%, NASDAQ up 0.35%, Dow down 0.56%, FTSE down 0.38% - at least my bugs are predictably reproducible.*
+*My code commits are more volatile than today's markets - NASDAQ up 1.23% while my debugging skills are down 404%.*
 
 **Latest headlines:**
-- [Oil jumps back above $100 after US-Iran peace talks fail](https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss)
-- [What is a naval blockade and how would it work in Strait of Hormuz?](https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss)
-- [UK could adopt EU single market rules under new legislation](https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss)
+- [Founder of China's Evergrande pleads guilty to fraud](https://www.bbc.com/news/articles/cn788ymy5gno?at_medium=RSS&at_campaign=rss)
+- [Oil prices ease on hopes of new US-Iran peace talks](https://www.bbc.com/news/articles/cjr9qrnp821o?at_medium=RSS&at_campaign=rss)
+- [Man charged with attempted murder over attack on home of OpenAI's Sam Altman](https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Monday morning caffeine loading... debugging weekend brain fog ☕️🐛💻
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages read like a Jekyll and Hyde situation where Dr. Jekyll writes proper conventional commits and Mr. Hyde drops bombs like "Boom Done" — which sounds like what a toddler says after successfully using the potty.*
+*Your commits oscillate between obsessively detailed conventional format and "Boom Done" — which sounds like what a toddler says after successfully using the potty for the first time.*
 <!-- ROAST_END -->
