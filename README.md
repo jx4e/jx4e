@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Tuesday! ☕ Debugging my way through the week, one commit at a time 🐛
+Halfway through the week and halfway through debugging that stubborn function! 🐛💻 Happy Wednesday, fellow coders! ⚡
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Happy Tuesday! ☕ Debugging my way through the week, one commit at a time 🐛
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 6,886.24 | 🟢 +1.02% |
-| NASDAQ | 23,183.74 | 🟢 +1.23% |
-| Dow | 48,218.25 | 🟢 +0.63% |
-| FTSE 100 | 10,599.72 | 🟢 +0.19% |
+| S&P 500 | 6,967.38 | 🟢 +1.18% |
+| NASDAQ | 23,639.08 | 🟢 +1.96% |
+| Dow | 48,535.99 | 🟢 +0.66% |
+| FTSE 100 | 10,610.00 | 🟢 +0.09% |
 
-*My code commits are more volatile than today's markets - NASDAQ up 1.23% while my debugging skills are down 404%.*
+*My code commits are more consistent than the Dow's 0.66% while the NASDAQ's pulling a 1.96% like it's running on energy drinks and unrealistic sprint estimates.*
 
 **Latest headlines:**
-- [Founder of China's Evergrande pleads guilty to fraud](https://www.bbc.com/news/articles/cn788ymy5gno?at_medium=RSS&at_campaign=rss)
-- [Oil prices ease on hopes of new US-Iran peace talks](https://www.bbc.com/news/articles/cjr9qrnp821o?at_medium=RSS&at_campaign=rss)
-- [Man charged with attempted murder over attack on home of OpenAI's Sam Altman](https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss)
+- [AA and BSM ordered to refund learner drivers for hidden fees](https://www.bbc.com/news/articles/c07000dzg9do?at_medium=RSS&at_campaign=rss)
+- [Help to Buy mostly helped high earners, IFS says](https://www.bbc.com/news/articles/cy511kd5lkwo?at_medium=RSS&at_campaign=rss)
+- ['Bit of pain' worth long-term security from Iran, Bessent tells BBC](https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Tuesday! ☕ Debugging my way through the week, one commit at a time 🐛
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits oscillate between obsessively detailed conventional format and "Boom Done" — which sounds like what a toddler says after successfully using the potty for the first time.*
+*Your commit messages read like a professional developer's diary until "Boom Done" crashed the party like a drunk uncle at a wedding, proving that even someone who writes "feat: add AI date extraction and study plan generation" can still commit war crimes against version control.*
 <!-- ROAST_END -->
