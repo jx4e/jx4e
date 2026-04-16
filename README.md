@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Halfway through the week and halfway through debugging that stubborn function! 🐛💻 Happy Wednesday, fellow coders! ⚡
+Thursday vibes: debugging code and dreaming of the weekend! 🐛☕✨
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Halfway through the week and halfway through debugging that stubborn function! �
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 6,967.38 | 🟢 +1.18% |
-| NASDAQ | 23,639.08 | 🟢 +1.96% |
-| Dow | 48,535.99 | 🟢 +0.66% |
-| FTSE 100 | 10,610.00 | 🟢 +0.09% |
+| S&P 500 | 7,022.95 | 🟢 +0.80% |
+| NASDAQ | 24,016.02 | 🟢 +1.59% |
+| Dow | 48,463.72 | 🔴 -0.15% |
+| FTSE 100 | 10,571.23 | 🔴 -0.01% |
 
-*My code commits are more consistent than the Dow's 0.66% while the NASDAQ's pulling a 1.96% like it's running on energy drinks and unrealistic sprint estimates.*
+*My code has more consistency than today's markets - while my functions debug at +0.80% and +1.59% efficiency, my legacy Dow modules are still throwing -0.15% errors and my FTSE integration is flatlining at -0.01%.*
 
 **Latest headlines:**
-- [AA and BSM ordered to refund learner drivers for hidden fees](https://www.bbc.com/news/articles/c07000dzg9do?at_medium=RSS&at_campaign=rss)
-- [Help to Buy mostly helped high earners, IFS says](https://www.bbc.com/news/articles/cy511kd5lkwo?at_medium=RSS&at_campaign=rss)
-- ['Bit of pain' worth long-term security from Iran, Bessent tells BBC](https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss)
+- [UK economy grew faster than expected ahead of Iran war](https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss)
+- [Big energy shock will push up prices, Bank boss tells BBC](https://www.bbc.com/news/articles/cn5330l73y2o?at_medium=RSS&at_campaign=rss)
+- [China's economy grows faster than expected despite Iran war](https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Halfway through the week and halfway through debugging that stubborn function! �
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages read like a professional developer's diary until "Boom Done" crashed the party like a drunk uncle at a wedding, proving that even someone who writes "feat: add AI date extraction and study plan generation" can still commit war crimes against version control.*
+*Your commit messages range from decent to absolutely tragic, with "Boom Done" being the crown jewel of laziness that tells us absolutely nothing about what you actually accomplished.*
 <!-- ROAST_END -->
