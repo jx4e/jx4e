@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Thursday vibes: debugging code and dreaming of the weekend! 🐛☕✨
+🎉 TGIF! Time to deploy those weekend side projects and debug life's mysteries! ☕️
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Thursday vibes: debugging code and dreaming of the weekend! 🐛☕✨
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,022.95 | 🟢 +0.80% |
-| NASDAQ | 24,016.02 | 🟢 +1.59% |
-| Dow | 48,463.72 | 🔴 -0.15% |
-| FTSE 100 | 10,571.23 | 🔴 -0.01% |
+| S&P 500 | 7,041.28 | 🟢 +0.26% |
+| NASDAQ | 24,102.70 | 🟢 +0.36% |
+| Dow | 48,578.72 | 🟢 +0.24% |
+| FTSE 100 | 10,580.79 | 🔴 -0.06% |
 
-*My code has more consistency than today's markets - while my functions debug at +0.80% and +1.59% efficiency, my legacy Dow modules are still throwing -0.15% errors and my FTSE integration is flatlining at -0.01%.*
+*My code commits are more consistent than today's markets: S&P up 0.26%, NASDAQ up 0.36%, Dow up 0.24%, but FTSE down 0.06% - at least my bugs are predictably broken.*
 
 **Latest headlines:**
-- [UK economy grew faster than expected ahead of Iran war](https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss)
-- [Big energy shock will push up prices, Bank boss tells BBC](https://www.bbc.com/news/articles/cn5330l73y2o?at_medium=RSS&at_campaign=rss)
-- [China's economy grows faster than expected despite Iran war](https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss)
+- [Finance ministers and top bankers raise serious concerns about Mythos AI model](https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss)
+- [Rising value of Pokémon cards sparks smash and grab crime spree](https://www.bbc.com/news/articles/c4gvvnpl5kno?at_medium=RSS&at_campaign=rss)
+- [Netflix co-founder Reed Hastings to step down as chairman](https://www.bbc.com/news/articles/cvglzn9e82eo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Thursday vibes: debugging code and dreaming of the weekend! 🐛☕✨
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages range from decent to absolutely tragic, with "Boom Done" being the crown jewel of laziness that tells us absolutely nothing about what you actually accomplished.*
+*Your commit history reads like a professional developer having a slow mental breakdown, culminating in the masterpiece of laziness that is "Boom Done" — because apparently even forming a complete sentence became too much effort.*
 <!-- ROAST_END -->
