@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-🎉 TGIF! Time to deploy those weekend side projects and debug life's mysteries! ☕️
+Happy Saturday! Time to debug that side project you've been putting off all week 🐛💻☕
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,041.28 | 🟢 +0.26% |
-| NASDAQ | 24,102.70 | 🟢 +0.36% |
-| Dow | 48,578.72 | 🟢 +0.24% |
-| FTSE 100 | 10,580.79 | 🔴 -0.06% |
+| S&P 500 | 7,126.06 | 🟢 +1.20% |
+| NASDAQ | 24,468.48 | 🟢 +1.52% |
+| Dow | 49,447.43 | 🟢 +1.79% |
+| FTSE 100 | 10,667.60 | 🟢 +0.73% |
 
-*My code commits are more consistent than today's markets: S&P up 0.26%, NASDAQ up 0.36%, Dow up 0.24%, but FTSE down 0.06% - at least my bugs are predictably broken.*
+*My code runs smoother than the markets today - S&P up 1.20%, NASDAQ up 1.52%, Dow up 1.79%, and my debugging skills up 404% (error not found).*
 
 **Latest headlines:**
-- [Finance ministers and top bankers raise serious concerns about Mythos AI model](https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss)
-- [Rising value of Pokémon cards sparks smash and grab crime spree](https://www.bbc.com/news/articles/c4gvvnpl5kno?at_medium=RSS&at_campaign=rss)
-- [Netflix co-founder Reed Hastings to step down as chairman](https://www.bbc.com/news/articles/cvglzn9e82eo?at_medium=RSS&at_campaign=rss)
+- [Mortgage rates show signs of falling after Iran war peak](https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss)
+- ['I'm the lucky one' - more than one in three young men now live with their parents](https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss)
+- [Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire](https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a professional developer having a slow mental breakdown, culminating in the masterpiece of laziness that is "Boom Done" — because apparently even forming a complete sentence became too much effort.*
+*You went from writing proper conventional commits like a responsible developer to literally just typing "Boom Done" like a caffeinated toddler who discovered the enter key.*
 <!-- ROAST_END -->
