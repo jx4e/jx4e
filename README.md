@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Saturday! Time to debug that side project you've been putting off all week 🐛💻☕
+Happy Sunday! Time for some lazy coding and coffee ☕ Perfect day to explore that side project you've been putting off 🚀
 <!-- GREETING_END -->
 
 ---
@@ -32,11 +32,11 @@ Happy Saturday! Time to debug that side project you've been putting off all week
 | Dow | 49,447.43 | 🟢 +1.79% |
 | FTSE 100 | 10,667.60 | 🟢 +0.73% |
 
-*My code runs smoother than the markets today - S&P up 1.20%, NASDAQ up 1.52%, Dow up 1.79%, and my debugging skills up 404% (error not found).*
+*My code commits are like today's markets: Dow leading at +1.79%, NASDAQ following at +1.52%, and my bug fixes trailing behind like the FTSE at +0.73%.*
 
 **Latest headlines:**
 - [Mortgage rates show signs of falling after Iran war peak](https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss)
-- ['I'm the lucky one' - more than one in three young men now live with their parents](https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss)
+- ['I'm the lucky one' - more than one in three young men live with their parents](https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss)
 - [Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire](https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
@@ -45,5 +45,5 @@ Happy Saturday! Time to debug that side project you've been putting off all week
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You went from writing proper conventional commits like a responsible developer to literally just typing "Boom Done" like a caffeinated toddler who discovered the enter key.*
+*Your commit messages read like a Jekyll and Hyde situation where Dr. Jekyll writes proper conventional commits and Mr. Hyde just slams "Boom Done" on the keyboard and calls it a day.*
 <!-- ROAST_END -->
