@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Sunday! Time for some lazy coding and coffee ☕ Perfect day to explore that side project you've been putting off 🚀
+Monday morning merge conflicts won't debug themselves! ☕ Let's turn caffeine into code 💻✨
 <!-- GREETING_END -->
 
 ---
@@ -30,14 +30,14 @@ Happy Sunday! Time for some lazy coding and coffee ☕ Perfect day to explore th
 | S&P 500 | 7,126.06 | 🟢 +1.20% |
 | NASDAQ | 24,468.48 | 🟢 +1.52% |
 | Dow | 49,447.43 | 🟢 +1.79% |
-| FTSE 100 | 10,667.60 | 🟢 +0.73% |
+| FTSE 100 | 10,600.60 | 🔴 -0.57% |
 
-*My code commits are like today's markets: Dow leading at +1.79%, NASDAQ following at +1.52%, and my bug fixes trailing behind like the FTSE at +0.73%.*
+*My code commits are more consistent than global markets - US indices gained 1.20-1.79% while FTSE dropped 0.57%, proving even my bugs have better international coordination.*
 
 **Latest headlines:**
-- [Mortgage rates show signs of falling after Iran war peak](https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss)
-- ['I'm the lucky one' - more than one in three young men live with their parents](https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss)
-- [Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire](https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss)
+- [The insider trading suspicions looming over Trump's presidency](https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss)
+- [Oil prices rise after Trump says Iranian ship seized](https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss)
+- [What's happening to UK petrol and diesel prices?](https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Sunday! Time for some lazy coding and coffee ☕ Perfect day to explore th
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages read like a Jekyll and Hyde situation where Dr. Jekyll writes proper conventional commits and Mr. Hyde just slams "Boom Done" on the keyboard and calls it a day.*
+*Your commit history reads like a developer who writes beautiful, descriptive messages for their actual work but apparently suffered a complete creative breakdown when naming projects, with "Boom Done" being the crown jewel of lazy communication that makes even "Initial commit" look eloquent.*
 <!-- ROAST_END -->
