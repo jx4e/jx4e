@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Monday morning merge conflicts won't debug themselves! ☕ Let's turn caffeine into code 💻✨
+Hey there! 🚀 Tuesday vibes are strong - time to debug yesterday's dreams and code tomorrow's reality! 💻✨
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Monday morning merge conflicts won't debug themselves! ☕ Let's turn caffeine i
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,126.06 | 🟢 +1.20% |
-| NASDAQ | 24,468.48 | 🟢 +1.52% |
-| Dow | 49,447.43 | 🟢 +1.79% |
-| FTSE 100 | 10,600.60 | 🔴 -0.57% |
+| S&P 500 | 7,109.14 | 🔴 -0.24% |
+| NASDAQ | 24,404.39 | 🔴 -0.26% |
+| Dow | 49,442.56 | 🔴 -0.01% |
+| FTSE 100 | 10,626.12 | 🟢 +0.20% |
 
-*My code commits are more consistent than global markets - US indices gained 1.20-1.79% while FTSE dropped 0.57%, proving even my bugs have better international coordination.*
+*My code has better performance than today's markets - at least my bugs are consistent across all platforms, unlike the FTSE being the only green number while everything else debugs in red.*
 
 **Latest headlines:**
-- [The insider trading suspicions looming over Trump's presidency](https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss)
-- [Oil prices rise after Trump says Iranian ship seized](https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss)
-- [What's happening to UK petrol and diesel prices?](https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss)
+- [Unemployment rate unexpectedly falls as fewer students look for work](https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss)
+- [Petrol thefts surge as Iran war pushes up fuel costs](https://www.bbc.com/news/articles/cx2drmm1mglo?at_medium=RSS&at_campaign=rss)
+- [Electricity bills targeted in planned shakeup to energy pricing](https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Monday morning merge conflicts won't debug themselves! ☕ Let's turn caffeine i
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer who writes beautiful, descriptive messages for their actual work but apparently suffered a complete creative breakdown when naming projects, with "Boom Done" being the crown jewel of lazy communication that makes even "Initial commit" look eloquent.*
+*Your commit messages are a masterpiece of developer laziness, from the double "Initial commit" copy-paste special to the absolute pinnacle of giving up that is "Boom Done" — which sounds like what a toddler says after successfully using the potty.*
 <!-- ROAST_END -->
