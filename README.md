@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🚀 Tuesday vibes are strong - time to debug yesterday's dreams and code tomorrow's reality! 💻✨
+Hey there! 🐪 Midweek coding vibes - pushing through those PRs and debugging like a champ! 💪
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Hey there! 🚀 Tuesday vibes are strong - time to debug yesterday's dreams and 
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,109.14 | 🔴 -0.24% |
-| NASDAQ | 24,404.39 | 🔴 -0.26% |
-| Dow | 49,442.56 | 🔴 -0.01% |
-| FTSE 100 | 10,626.12 | 🟢 +0.20% |
+| S&P 500 | 7,064.01 | 🔴 -0.63% |
+| NASDAQ | 24,259.96 | 🔴 -0.59% |
+| Dow | 49,149.38 | 🔴 -0.59% |
+| FTSE 100 | 10,499.52 | 🔴 -0.04% |
 
-*My code has better performance than today's markets - at least my bugs are consistent across all platforms, unlike the FTSE being the only green number while everything else debugs in red.*
+*My code has fewer bugs today than the market has losses - S&P down 0.63%, NASDAQ down 0.59%, Dow down 0.59%, but at least FTSE only dropped 0.04% like a minor syntax error.*
 
 **Latest headlines:**
-- [Unemployment rate unexpectedly falls as fewer students look for work](https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss)
-- [Petrol thefts surge as Iran war pushes up fuel costs](https://www.bbc.com/news/articles/cx2drmm1mglo?at_medium=RSS&at_campaign=rss)
-- [Electricity bills targeted in planned shakeup to energy pricing](https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss)
+- [UK inflation rises after Iran war pushes up fuel prices](https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss)
+- [Car finance compensation scheme faces challenge and delay](https://www.bbc.com/news/articles/cj0v63v027lo?at_medium=RSS&at_campaign=rss)
+- [Oil prices dip as Trump extends Iran war ceasefire](https://www.bbc.com/news/articles/c995dkl4dvvo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🚀 Tuesday vibes are strong - time to debug yesterday's dreams and 
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages are a masterpiece of developer laziness, from the double "Initial commit" copy-paste special to the absolute pinnacle of giving up that is "Boom Done" — which sounds like what a toddler says after successfully using the potty.*
+*Your commit messages range from admirably descriptive to "Boom Done" — which sounds like what a toddler yells after successfully using the potty for the first time.*
 <!-- ROAST_END -->
