@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Thursday vibes: halfway to the weekend but still debugging like there's no tomorrow! 🐛☕💪
+Ready to debug the week away and ship some code before the weekend! 🚀💻🎉
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Thursday vibes: halfway to the weekend but still debugging like there's no tomor
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,137.90 | 🟢 +1.05% |
-| NASDAQ | 24,657.57 | 🟢 +1.64% |
-| Dow | 49,490.03 | 🟢 +0.69% |
-| FTSE 100 | 10,389.24 | 🔴 -0.87% |
+| S&P 500 | 7,108.40 | 🔴 -0.41% |
+| NASDAQ | 24,438.50 | 🔴 -0.89% |
+| Dow | 49,310.32 | 🔴 -0.36% |
+| FTSE 100 | 10,379.92 | 🔴 -0.84% |
 
-*My code's performance today: NASDAQ-level gains (+1.64% bug fixes), S&P 500 solid growth (+1.05% features), Dow steady progress (+0.69% commits), but my documentation still pulling a FTSE 100 (-0.87% and declining).*
+*My code has fewer bugs today than the markets have red candles: S&P -0.41%, NASDAQ -0.89%, Dow -0.36%, FTSE -0.84% 🐛📉*
 
 **Latest headlines:**
-- [UK borrowing lowest for three years  but Iran war clouds outlook](https://www.bbc.com/news/articles/ckge5291152o?at_medium=RSS&at_campaign=rss)
-- [AI is already leading to fewer jobs for young people, says Sunak](https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss)
-- [Three ways the latest inflation figures affect you ](https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss)
+- [Stock markets are too high and set to fall, says Bank of England deputy](https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss)
+- [How does it affect me if share prices fall?](https://www.bbc.com/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss)
+- [White House memo claims mass AI theft by Chinese firms](https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Thursday vibes: halfway to the weekend but still debugging like there's no tomor
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer portfolio with "Boom Done" being the exact moment you gave up on professionalism and decided to embrace your inner caveman.*
+*Your commit history reads like a developer's diary where "Boom Done" is the exact moment you gave up on professionalism and decided that two words of pure laziness were somehow better than the dozen thoughtful conventional commits surrounding it.*
 <!-- ROAST_END -->
