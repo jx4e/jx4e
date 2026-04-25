@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Ready to debug the week away and ship some code before the weekend! 🚀💻🎉
+Weekend warrior coding mode activated! 💻✨ Happy Saturday debugging! 🐛
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Ready to debug the week away and ship some code before the weekend! 🚀💻🎉
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,108.40 | 🔴 -0.41% |
-| NASDAQ | 24,438.50 | 🔴 -0.89% |
-| Dow | 49,310.32 | 🔴 -0.36% |
-| FTSE 100 | 10,379.92 | 🔴 -0.84% |
+| S&P 500 | 7,165.08 | 🟢 +0.80% |
+| NASDAQ | 24,836.60 | 🟢 +1.63% |
+| Dow | 49,230.71 | 🔴 -0.16% |
+| FTSE 100 | 10,379.10 | 🔴 -0.75% |
 
-*My code has fewer bugs today than the markets have red candles: S&P -0.41%, NASDAQ -0.89%, Dow -0.36%, FTSE -0.84% 🐛📉*
+*My code debugging skills are like today's markets: NASDAQ crushing it at +1.63%, S&P 500 solid at +0.80%, while my frontend (Dow -0.16%) and documentation (FTSE -0.75%) are having a rough day.*
 
 **Latest headlines:**
+- [China car giant BYD says it can thrive without US](https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss)
 - [Stock markets are too high and set to fall, says Bank of England deputy](https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss)
-- [How does it affect me if share prices fall?](https://www.bbc.com/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss)
-- [White House memo claims mass AI theft by Chinese firms](https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss)
+- [US justice department drops probe into Fed chairman Jerome Powell](https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Ready to debug the week away and ship some code before the weekend! 🚀💻🎉
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer's diary where "Boom Done" is the exact moment you gave up on professionalism and decided that two words of pure laziness were somehow better than the dozen thoughtful conventional commits surrounding it.*
+*Your commits are a masterclass in commitment issues with two "Initial commit" messages for different repos, but "Boom Done" takes the crown for being so aggressively lazy it makes GitHub weep.*
 <!-- ROAST_END -->
