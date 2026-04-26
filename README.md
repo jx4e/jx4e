@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Weekend warrior coding mode activated! 💻✨ Happy Saturday debugging! 🐛
+Sunday funday = debugging day! Time to squash those bugs while sipping coffee ☕🐛💻
 <!-- GREETING_END -->
 
 ---
@@ -32,7 +32,7 @@ Weekend warrior coding mode activated! 💻✨ Happy Saturday debugging! 🐛
 | Dow | 49,230.71 | 🔴 -0.16% |
 | FTSE 100 | 10,379.10 | 🔴 -0.75% |
 
-*My code debugging skills are like today's markets: NASDAQ crushing it at +1.63%, S&P 500 solid at +0.80%, while my frontend (Dow -0.16%) and documentation (FTSE -0.75%) are having a rough day.*
+*Just like my code commits, the markets are showing mixed results today: NASDAQ debugging at +1.63%, S&P 500 compiling smoothly at +0.80%, while Dow threw a -0.16% error and FTSE 100 crashed at -0.75%.*
 
 **Latest headlines:**
 - [China car giant BYD says it can thrive without US](https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss)
@@ -45,5 +45,5 @@ Weekend warrior coding mode activated! 💻✨ Happy Saturday debugging! 🐛
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits are a masterclass in commitment issues with two "Initial commit" messages for different repos, but "Boom Done" takes the crown for being so aggressively lazy it makes GitHub weep.*
+*You've got more "Initial commit" messages than original thoughts, but "Boom Done" really takes the crown for peak developer laziness—like you gave up on communication entirely and just keyboard-smashed your way to deployment.*
 <!-- ROAST_END -->
