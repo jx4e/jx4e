@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Sunday funday = debugging day! Time to squash those bugs while sipping coffee ☕🐛💻
+Monday mode: activated ☕ Time to turn coffee into code and crush this week's bugs! 💻
 <!-- GREETING_END -->
 
 ---
@@ -30,14 +30,14 @@ Sunday funday = debugging day! Time to squash those bugs while sipping coffee �
 | S&P 500 | 7,165.08 | 🟢 +0.80% |
 | NASDAQ | 24,836.60 | 🟢 +1.63% |
 | Dow | 49,230.71 | 🔴 -0.16% |
-| FTSE 100 | 10,379.10 | 🔴 -0.75% |
+| FTSE 100 | 10,390.56 | 🟢 +0.03% |
 
-*Just like my code commits, the markets are showing mixed results today: NASDAQ debugging at +1.63%, S&P 500 compiling smoothly at +0.80%, while Dow threw a -0.16% error and FTSE 100 crashed at -0.75%.*
+*My code has more consistent performance than the Dow today - at least my bugs are reproducible, unlike that -0.16% while everything else partied up to 1.63%.*
 
 **Latest headlines:**
-- [China car giant BYD says it can thrive without US](https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss)
-- [Stock markets are too high and set to fall, says Bank of England deputy](https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss)
-- [US justice department drops probe into Fed chairman Jerome Powell](https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss)
+- [Oil prices rise as US-Iran peace talks stall](https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss)
+- ['I don't want the children to see how worried we are': UK family finances hit by Iran war](https://www.bbc.com/news/articles/ckg9q2g88nzo?at_medium=RSS&at_campaign=rss)
+- [Less bread and WFH Fridays – what Pret boss knows about our habits](https://www.bbc.com/news/articles/c8dl3z9878no?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Sunday funday = debugging day! Time to squash those bugs while sipping coffee �
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You've got more "Initial commit" messages than original thoughts, but "Boom Done" really takes the crown for peak developer laziness—like you gave up on communication entirely and just keyboard-smashed your way to deployment.*
+*Your commit game is weaker than your project naming skills, and "Boom Done" makes it clear you've given up on both professionalism and explaining what you actually accomplished.*
 <!-- ROAST_END -->
