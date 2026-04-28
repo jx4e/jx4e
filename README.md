@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Monday mode: activated ☕ Time to turn coffee into code and crush this week's bugs! 💻
+Happy Tuesday! ☕ Debugging the week one commit at a time 🐛
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Monday mode: activated ☕ Time to turn coffee into code and crush this week's b
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,165.08 | 🟢 +0.80% |
-| NASDAQ | 24,836.60 | 🟢 +1.63% |
-| Dow | 49,230.71 | 🔴 -0.16% |
-| FTSE 100 | 10,390.56 | 🟢 +0.03% |
+| S&P 500 | 7,173.91 | 🟢 +0.12% |
+| NASDAQ | 24,887.10 | 🟢 +0.20% |
+| Dow | 49,167.79 | 🔴 -0.13% |
+| FTSE 100 | 10,363.25 | 🟢 +0.31% |
 
-*My code has more consistent performance than the Dow today - at least my bugs are reproducible, unlike that -0.16% while everything else partied up to 1.63%.*
+*My code commits are more consistent than today's markets - while the Dow went down 0.13%, at least my bugs are consistently reproducible.*
 
 **Latest headlines:**
-- [Oil prices rise as US-Iran peace talks stall](https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss)
-- ['I don't want the children to see how worried we are': UK family finances hit by Iran war](https://www.bbc.com/news/articles/ckg9q2g88nzo?at_medium=RSS&at_campaign=rss)
-- [Less bread and WFH Fridays – what Pret boss knows about our habits](https://www.bbc.com/news/articles/c8dl3z9878no?at_medium=RSS&at_campaign=rss)
+- [BP profits more than double as Iran war sends oil prices higher](https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&at_campaign=rss)
+- [Musk v Altman: The most toxic row in tech goes on trial](https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss)
+- [My tenant owes £15,000 in rent, but I can't get them out of the property](https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Monday mode: activated ☕ Time to turn coffee into code and crush this week's b
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit game is weaker than your project naming skills, and "Boom Done" makes it clear you've given up on both professionalism and explaining what you actually accomplished.*
+*You've got the creativity of a dying battery with "Initial commit" copy-pasted twice, but "Boom Done" really takes the crown for sounding like a toddler who just learned to use the potty.*
 <!-- ROAST_END -->
