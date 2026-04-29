@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Tuesday! ☕ Debugging the week one commit at a time 🐛
+Halfway through the week, halfway through debugging! ☕ Still caffeinated and coding strong 💪
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Happy Tuesday! ☕ Debugging the week one commit at a time 🐛
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,173.91 | 🟢 +0.12% |
-| NASDAQ | 24,887.10 | 🟢 +0.20% |
-| Dow | 49,167.79 | 🔴 -0.13% |
-| FTSE 100 | 10,363.25 | 🟢 +0.31% |
+| S&P 500 | 7,138.80 | 🔴 -0.49% |
+| NASDAQ | 24,663.80 | 🔴 -0.90% |
+| Dow | 49,141.93 | 🔴 -0.05% |
+| FTSE 100 | 10,248.06 | 🔴 -0.82% |
 
-*My code commits are more consistent than today's markets - while the Dow went down 0.13%, at least my bugs are consistently reproducible.*
+*My code has fewer bugs than the NASDAQ has percentage points today (-0.90%), but somehow the Dow managed to outperform both at -0.05%.*
 
 **Latest headlines:**
-- [BP profits more than double as Iran war sends oil prices higher](https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&at_campaign=rss)
-- [Musk v Altman: The most toxic row in tech goes on trial](https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss)
-- [My tenant owes £15,000 in rent, but I can't get them out of the property](https://www.bbc.com/news/articles/c30r5z3vdydo?at_medium=RSS&at_campaign=rss)
+- [Advert for £49 serum banned over 'five years younger' claim](https://www.bbc.com/news/articles/c78kl05en7po?at_medium=RSS&at_campaign=rss)
+- [A fresh financial crisis may be coming - it won't play out like the last one](https://www.bbc.com/news/articles/cp3p5l0nyevo?at_medium=RSS&at_campaign=rss)
+- [United Arab Emirates to quit oil cartel Opec](https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Tuesday! ☕ Debugging the week one commit at a time 🐛
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You've got the creativity of a dying battery with "Initial commit" copy-pasted twice, but "Boom Done" really takes the crown for sounding like a toddler who just learned to use the potty.*
+*Your commit messages are a masterpiece of inconsistency, bouncing from the criminally lazy "Initial commit" twins to the unnecessarily verbose "feat: add syllabus import modal with AI extraction and study plan generation," but nothing beats the absolute peak of developer apathy that is "Boom Done" — truly the commit message equivalent of mic-dropping after taking a dump.*
 <!-- ROAST_END -->
