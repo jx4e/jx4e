@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Halfway through the week, halfway through debugging! ☕ Still caffeinated and coding strong 💪
+Hey there! 🚀 Almost made it through another week of turning coffee into code ☕
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Halfway through the week, halfway through debugging! ☕ Still caffeinated and c
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,138.80 | 🔴 -0.49% |
-| NASDAQ | 24,663.80 | 🔴 -0.90% |
-| Dow | 49,141.93 | 🔴 -0.05% |
-| FTSE 100 | 10,248.06 | 🔴 -0.82% |
+| S&P 500 | 7,135.95 | 🔴 -0.04% |
+| NASDAQ | 24,673.24 | 🟢 +0.04% |
+| Dow | 48,861.81 | 🔴 -0.57% |
+| FTSE 100 | 10,312.59 | 🟢 +1.02% |
 
-*My code has fewer bugs than the NASDAQ has percentage points today (-0.90%), but somehow the Dow managed to outperform both at -0.05%.*
+*My code has better consistency than today's markets - while the Dow dropped 0.57% and the S&P fell 0.04%, at least my bugs are reproducible every time.*
 
 **Latest headlines:**
-- [Advert for £49 serum banned over 'five years younger' claim](https://www.bbc.com/news/articles/c78kl05en7po?at_medium=RSS&at_campaign=rss)
-- [A fresh financial crisis may be coming - it won't play out like the last one](https://www.bbc.com/news/articles/cp3p5l0nyevo?at_medium=RSS&at_campaign=rss)
-- [United Arab Emirates to quit oil cartel Opec](https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss)
+- [Oil price hits highest since 2022 after report Trump to be briefed on new Iran options](https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss)
+- [Interest rates expected to be held as uncertainty over Iran war continues](https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss)
+- [Premier Inn owner to cut 3,800 jobs in savings plan](https://www.bbc.com/news/articles/c5ye5g9m7mpo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Halfway through the week, halfway through debugging! ☕ Still caffeinated and c
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages are a masterpiece of inconsistency, bouncing from the criminally lazy "Initial commit" twins to the unnecessarily verbose "feat: add syllabus import modal with AI extraction and study plan generation," but nothing beats the absolute peak of developer apathy that is "Boom Done" — truly the commit message equivalent of mic-dropping after taking a dump.*
+*Your commit history reads like a developer who thinks "Boom Done" is professional communication, sandwiched between actually descriptive messages that make it look even more embarrassingly lazy.*
 <!-- ROAST_END -->
