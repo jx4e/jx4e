@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🚀 Almost made it through another week of turning coffee into code ☕
+Happy Friday, fellow devs! 🎉 Time to deploy those features and kick off the weekend! 🚀
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Hey there! 🚀 Almost made it through another week of turning coffee into code 
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,135.95 | 🔴 -0.04% |
-| NASDAQ | 24,673.24 | 🟢 +0.04% |
-| Dow | 48,861.81 | 🔴 -0.57% |
-| FTSE 100 | 10,312.59 | 🟢 +1.02% |
+| S&P 500 | 7,209.01 | 🟢 +1.02% |
+| NASDAQ | 24,892.31 | 🟢 +0.89% |
+| Dow | 49,652.14 | 🟢 +1.62% |
+| FTSE 100 | 10,313.37 | 🔴 -0.56% |
 
-*My code has better consistency than today's markets - while the Dow dropped 0.57% and the S&P fell 0.04%, at least my bugs are reproducible every time.*
+*My code commits are more consistent than today's markets - US indices partying like it's 1999 (+1.02%, +0.89%, +1.62%) while FTSE 100 (-0.56%) is having a proper British sulk.*
 
 **Latest headlines:**
-- [Oil price hits highest since 2022 after report Trump to be briefed on new Iran options](https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss)
-- [Interest rates expected to be held as uncertainty over Iran war continues](https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss)
-- [Premier Inn owner to cut 3,800 jobs in savings plan](https://www.bbc.com/news/articles/c5ye5g9m7mpo?at_medium=RSS&at_campaign=rss)
+- [Billions of meals at risk due to Iran war, says fertiliser boss ](https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss)
+- ['There were letters I didn't want to open': Rise in unpaid debt court cases](https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss)
+- [Apple says iPhone 17 'most popular ever' as sales soar](https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🚀 Almost made it through another week of turning coffee into code 
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer who thinks "Boom Done" is professional communication, sandwiched between actually descriptive messages that make it look even more embarrassingly lazy.*
+*Your commit messages swing from beautifully descriptive technical poetry to the absolute literary masterpiece that is "Boom Done" — which somehow manages to communicate less information than just pushing an empty repository.*
 <!-- ROAST_END -->
