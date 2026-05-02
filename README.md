@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Friday, fellow devs! 🎉 Time to deploy those features and kick off the weekend! 🚀
+Weekend coding vibes activated! 🚀 Hope your bugs are as easy to squash as Saturday morning pancakes 🥞
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Happy Friday, fellow devs! 🎉 Time to deploy those features and kick off the w
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,209.01 | 🟢 +1.02% |
-| NASDAQ | 24,892.31 | 🟢 +0.89% |
-| Dow | 49,652.14 | 🟢 +1.62% |
-| FTSE 100 | 10,313.37 | 🔴 -0.56% |
+| S&P 500 | 7,230.12 | 🟢 +0.29% |
+| NASDAQ | 25,114.44 | 🟢 +0.89% |
+| Dow | 49,499.27 | 🔴 -0.31% |
+| FTSE 100 | 10,363.90 | 🔴 -0.14% |
 
-*My code commits are more consistent than today's markets - US indices partying like it's 1999 (+1.02%, +0.89%, +1.62%) while FTSE 100 (-0.56%) is having a proper British sulk.*
+*My code commits are more consistent than today's markets: NASDAQ +0.89%, S&P +0.29%, Dow -0.31%, FTSE -0.14% - at least my bugs are reproducible.*
 
 **Latest headlines:**
-- [Billions of meals at risk due to Iran war, says fertiliser boss ](https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss)
-- ['There were letters I didn't want to open': Rise in unpaid debt court cases](https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss)
-- [Apple says iPhone 17 'most popular ever' as sales soar](https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss)
+- [Trump says he will hike tariffs on EU cars to 25% ](https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss)
+- [Spirit Airlines shutting down after rescue talks collapse](https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss)
+- [Pentagon says US military to be an 'AI-first' fighting force](https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Friday, fellow devs! 🎉 Time to deploy those features and kick off the w
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages swing from beautifully descriptive technical poetry to the absolute literary masterpiece that is "Boom Done" — which somehow manages to communicate less information than just pushing an empty repository.*
+*Your commit history reads like a developer personality disorder where "Boom Done" is having an identity crisis between three different flavors of "I couldn't be bothered to think of a real message" and some surprisingly decent conventional commits.*
 <!-- ROAST_END -->
