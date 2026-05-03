@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Weekend coding vibes activated! 🚀 Hope your bugs are as easy to squash as Saturday morning pancakes 🥞
+Sunday vibes: debugging with coffee and zero rush ☕️💻✨
 <!-- GREETING_END -->
 
 ---
@@ -32,12 +32,12 @@ Weekend coding vibes activated! 🚀 Hope your bugs are as easy to squash as Sat
 | Dow | 49,499.27 | 🔴 -0.31% |
 | FTSE 100 | 10,363.90 | 🔴 -0.14% |
 
-*My code commits are more consistent than today's markets: NASDAQ +0.89%, S&P +0.29%, Dow -0.31%, FTSE -0.14% - at least my bugs are reproducible.*
+*My code has more consistency than today's markets - while my functions either work or they don't, apparently the NASDAQ can surge 0.89% while the Dow drops 0.31% in the same universe.*
 
 **Latest headlines:**
-- [Trump says he will hike tariffs on EU cars to 25% ](https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss)
+- [Airlines can cancel flights in advance over fuel shortages under new plans](https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss)
 - [Spirit Airlines shutting down after rescue talks collapse](https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss)
-- [Pentagon says US military to be an 'AI-first' fighting force](https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss)
+- [Voters will judge Trump on the economy - how is it doing?](https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Weekend coding vibes activated! 🚀 Hope your bugs are as easy to squash as Sat
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer personality disorder where "Boom Done" is having an identity crisis between three different flavors of "I couldn't be bothered to think of a real message" and some surprisingly decent conventional commits.*
+*You've committed to being the laziest developer alive with three "Initial commit" messages, but somehow "Boom Done" still managed to be even more embarrassingly vague than your copy-paste repo starters.*
 <!-- ROAST_END -->
