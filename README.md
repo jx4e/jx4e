@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Sunday vibes: debugging with coffee and zero rush ☕️💻✨
+Monday funday! Time to debug last Friday's "it works on my machine" commits 🐛💻☕
 <!-- GREETING_END -->
 
 ---
@@ -32,12 +32,12 @@ Sunday vibes: debugging with coffee and zero rush ☕️💻✨
 | Dow | 49,499.27 | 🔴 -0.31% |
 | FTSE 100 | 10,363.90 | 🔴 -0.14% |
 
-*My code has more consistency than today's markets - while my functions either work or they don't, apparently the NASDAQ can surge 0.89% while the Dow drops 0.31% in the same universe.*
+*My code is performing like today's markets: the main function (S&P) is slightly up 0.29%, my JavaScript is having a great day like NASDAQ +0.89%, but my legacy Java code is down 0.31% like the Dow and my British tea break efficiency dropped 0.14% with the FTSE.*
 
 **Latest headlines:**
-- [Airlines can cancel flights in advance over fuel shortages under new plans](https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss)
-- [Spirit Airlines shutting down after rescue talks collapse](https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss)
-- [Voters will judge Trump on the economy - how is it doing?](https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss)
+- [Trump says US to 'guide' stranded ships through Strait of Hormuz](https://www.bbc.com/news/articles/c775jevkyv2o?at_medium=RSS&at_campaign=rss)
+- [GameStop makes $55.5bn takeover offer for eBay](https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss)
+- [Samsung family pays off record $8bn inheritance tax bill](https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Sunday vibes: debugging with coffee and zero rush ☕️💻✨
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You've committed to being the laziest developer alive with three "Initial commit" messages, but somehow "Boom Done" still managed to be even more embarrassingly vague than your copy-paste repo starters.*
+*Your commit history reads like a developer who peaked at "Boom Done" and then spent the rest of their career overcompensating with verbose conventional commits to hide the shame.*
 <!-- ROAST_END -->
