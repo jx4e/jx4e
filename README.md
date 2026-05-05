@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Monday funday! Time to debug last Friday's "it works on my machine" commits 🐛💻☕
+🔥 Tuesday vibes: crushing bugs and shipping features like there's no tomorrow! 💻✨
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Monday funday! Time to debug last Friday's "it works on my machine" commits 🐛
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,230.12 | 🟢 +0.29% |
-| NASDAQ | 25,114.44 | 🟢 +0.89% |
-| Dow | 49,499.27 | 🔴 -0.31% |
-| FTSE 100 | 10,363.90 | 🔴 -0.14% |
+| S&P 500 | 7,200.75 | 🔴 -0.41% |
+| NASDAQ | 25,067.80 | 🔴 -0.19% |
+| Dow | 48,941.90 | 🔴 -1.13% |
+| FTSE 100 | 10,261.12 | 🔴 -1.10% |
 
-*My code is performing like today's markets: the main function (S&P) is slightly up 0.29%, my JavaScript is having a great day like NASDAQ +0.89%, but my legacy Java code is down 0.31% like the Dow and my British tea break efficiency dropped 0.14% with the FTSE.*
+*My code has fewer bugs than the market has red numbers today: S&P -0.41%, NASDAQ -0.19%, Dow -1.13%, FTSE -1.10% - at least my functions actually return something positive.*
 
 **Latest headlines:**
-- [Trump says US to 'guide' stranded ships through Strait of Hormuz](https://www.bbc.com/news/articles/c775jevkyv2o?at_medium=RSS&at_campaign=rss)
-- [GameStop makes $55.5bn takeover offer for eBay](https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss)
-- [Samsung family pays off record $8bn inheritance tax bill](https://www.bbc.com/news/articles/cn0px8g13xgo?at_medium=RSS&at_campaign=rss)
+- [British pubs closing at a rate of almost two per day in 2026](https://www.bbc.com/news/articles/c9d355nw7jzo?at_medium=RSS&at_campaign=rss)
+- ['Vodafone sold us a dream - the reality was something different'](https://www.bbc.com/news/articles/cn8dp2jwdnqo?at_medium=RSS&at_campaign=rss)
+- [The threat to summer holidays looming from jet fuel shortages](https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Monday funday! Time to debug last Friday's "it works on my machine" commits 🐛
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer who peaked at "Boom Done" and then spent the rest of their career overcompensating with verbose conventional commits to hide the shame.*
+*Your commit history reads like a developer's journey from "I don't know what Git is" to "I'm a professional" with "Boom Done" being the exact moment you gave up on having any dignity whatsoever.*
 <!-- ROAST_END -->
