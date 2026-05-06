@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-🔥 Tuesday vibes: crushing bugs and shipping features like there's no tomorrow! 💻✨
+Midweek momentum! 🚀 Debugging like a detective and shipping features like it's Friday ✨
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,200.75 | 🔴 -0.41% |
-| NASDAQ | 25,067.80 | 🔴 -0.19% |
-| Dow | 48,941.90 | 🔴 -1.13% |
-| FTSE 100 | 10,261.12 | 🔴 -1.10% |
+| S&P 500 | 7,259.22 | 🟢 +0.81% |
+| NASDAQ | 25,326.13 | 🟢 +1.03% |
+| Dow | 49,298.25 | 🟢 +0.73% |
+| FTSE 100 | 10,434.68 | 🟢 +2.10% |
 
-*My code has fewer bugs than the market has red numbers today: S&P -0.41%, NASDAQ -0.19%, Dow -1.13%, FTSE -1.10% - at least my functions actually return something positive.*
+*My code commits are more stable than today's markets, but at least the NASDAQ's +1.03% beats my test coverage percentage.*
 
 **Latest headlines:**
-- [British pubs closing at a rate of almost two per day in 2026](https://www.bbc.com/news/articles/c9d355nw7jzo?at_medium=RSS&at_campaign=rss)
-- ['Vodafone sold us a dream - the reality was something different'](https://www.bbc.com/news/articles/cn8dp2jwdnqo?at_medium=RSS&at_campaign=rss)
-- [The threat to summer holidays looming from jet fuel shortages](https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss)
+- [Airlines cut 13,000 flights in May as jet fuel prices soar](https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss)
+- [Next to hike prices by up to 8% outside Europe due to Iran war costs](https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss)
+- [Oil prices ease as US pauses Project Freedom to seek deal with Iran](https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer's journey from "I don't know what Git is" to "I'm a professional" with "Boom Done" being the exact moment you gave up on having any dignity whatsoever.*
+*Your commit history reads like a Jekyll and Hyde story where you oscillate between actually caring about your code and phoning it in so hard that "Boom Done" makes your three "Initial commit" messages look like Shakespeare.*
 <!-- ROAST_END -->
