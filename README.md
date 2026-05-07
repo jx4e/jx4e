@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Midweek momentum! 🚀 Debugging like a detective and shipping features like it's Friday ✨
+Ready to debug the week and push some Thursday magic! 🚀✨🔧
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Midweek momentum! 🚀 Debugging like a detective and shipping features like it'
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,259.22 | 🟢 +0.81% |
-| NASDAQ | 25,326.13 | 🟢 +1.03% |
-| Dow | 49,298.25 | 🟢 +0.73% |
-| FTSE 100 | 10,434.68 | 🟢 +2.10% |
+| S&P 500 | 7,365.12 | 🟢 +1.46% |
+| NASDAQ | 25,838.94 | 🟢 +2.02% |
+| Dow | 49,910.59 | 🟢 +1.24% |
+| FTSE 100 | 10,367.21 | 🔴 -0.71% |
 
-*My code commits are more stable than today's markets, but at least the NASDAQ's +1.03% beats my test coverage percentage.*
+*My code runs better than the FTSE today - at least when my bugs crash, they don't take down 0.71% of the entire system like London did.*
 
 **Latest headlines:**
-- [Airlines cut 13,000 flights in May as jet fuel prices soar](https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss)
-- [Next to hike prices by up to 8% outside Europe due to Iran war costs](https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss)
-- [Oil prices ease as US pauses Project Freedom to seek deal with Iran](https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss)
+- [Shell latest oil giant to see profits surge due to Iran war impact](https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss)
+- [Major rail disruption in south of England following radio fault](https://www.bbc.com/news/articles/ckgp8yjllx1o?at_medium=RSS&at_campaign=rss)
+- ['We had people come just to see it': Amazon delivers its first UK parcels by drone](https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Midweek momentum! 🚀 Debugging like a detective and shipping features like it'
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a Jekyll and Hyde story where you oscillate between actually caring about your code and phoning it in so hard that "Boom Done" makes your three "Initial commit" messages look like Shakespeare.*
+*Your commit history reads like a developer who peaked at "Boom Done" and then spent the rest of their career overcompensating with verbose technical jargon to hide the shame.*
 <!-- ROAST_END -->
