@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Ready to debug the week and push some Thursday magic! 🚀✨🔧
+Happy Friday! Time to push that final commit and enjoy the weekend! 🚀✨
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Ready to debug the week and push some Thursday magic! 🚀✨🔧
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,365.12 | 🟢 +1.46% |
-| NASDAQ | 25,838.94 | 🟢 +2.02% |
-| Dow | 49,910.59 | 🟢 +1.24% |
-| FTSE 100 | 10,367.21 | 🔴 -0.71% |
+| S&P 500 | 7,337.11 | 🔴 -0.38% |
+| NASDAQ | 25,806.20 | 🔴 -0.13% |
+| Dow | 49,596.97 | 🔴 -0.63% |
+| FTSE 100 | 10,256.66 | 🔴 -0.32% |
 
-*My code runs better than the FTSE today - at least when my bugs crash, they don't take down 0.71% of the entire system like London did.*
+*My code has fewer bugs than the market has red numbers today: S&P down 0.38%, NASDAQ down 0.13%, Dow down 0.63%, FTSE down 0.32% - at least my functions return something positive.*
 
 **Latest headlines:**
-- [Shell latest oil giant to see profits surge due to Iran war impact](https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss)
-- [Major rail disruption in south of England following radio fault](https://www.bbc.com/news/articles/ckgp8yjllx1o?at_medium=RSS&at_campaign=rss)
-- ['We had people come just to see it': Amazon delivers its first UK parcels by drone](https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss)
+- [Oil prices rise after US and Iran exchange fire in Hormuz strait](https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss)
+- [The companies making billions from the Iran war](https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss)
+- [South East Water boss quits after supply failures](https://www.bbc.com/news/articles/cn7pxm13lrro?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Ready to debug the week and push some Thursday magic! 🚀✨🔧
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer who peaked at "Boom Done" and then spent the rest of their career overcompensating with verbose technical jargon to hide the shame.*
+_Your commit history reads like a developer who peaked at "Boom Done" and then desperately tried to compensate with overly verbose conventional commits, but we all know that lazy masterpiece is your true voice._
 <!-- ROAST_END -->
