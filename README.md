@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Friday! Time to push that final commit and enjoy the weekend! 🚀✨
+Happy Saturday! Time to code with coffee in hand and no morning meetings to interrupt the flow ☕💻🚀
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Happy Friday! Time to push that final commit and enjoy the weekend! 🚀✨
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,337.11 | 🔴 -0.38% |
-| NASDAQ | 25,806.20 | 🔴 -0.13% |
-| Dow | 49,596.97 | 🔴 -0.63% |
-| FTSE 100 | 10,256.66 | 🔴 -0.32% |
+| S&P 500 | 7,398.93 | 🟢 +0.84% |
+| NASDAQ | 26,247.08 | 🟢 +1.71% |
+| Dow | 49,609.16 | 🟢 +0.02% |
+| FTSE 100 | 10,233.10 | 🔴 -0.43% |
 
-*My code has fewer bugs than the market has red numbers today: S&P down 0.38%, NASDAQ down 0.13%, Dow down 0.63%, FTSE down 0.32% - at least my functions return something positive.*
+*My code has more bugs than the Dow has gains today (0.02%), but at least the NASDAQ is debugging at 1.71% efficiency.*
 
 **Latest headlines:**
-- [Oil prices rise after US and Iran exchange fire in Hormuz strait](https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss)
-- [The companies making billions from the Iran war](https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss)
-- [South East Water boss quits after supply failures](https://www.bbc.com/news/articles/cn7pxm13lrro?at_medium=RSS&at_campaign=rss)
+- [The UK is set for a staycation summer - and there are plenty of hidden gems](https://www.bbc.com/news/articles/cgjpv9pdnpwo?at_medium=RSS&at_campaign=rss)
+- [US jet fuel could be used in Europe to ease possible shortages](https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss)
+- [Major train operator to be renationalised in months](https://www.bbc.com/news/articles/cy02yyl1e7xo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Friday! Time to push that final commit and enjoy the weekend! 🚀✨
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-_Your commit history reads like a developer who peaked at "Boom Done" and then desperately tried to compensate with overly verbose conventional commits, but we all know that lazy masterpiece is your true voice._
+*Your commit history reads like a developer who peaked at "Boom Done" and then spent the rest of their career trying to compensate with unnecessarily verbose conventional commit messages.*
 <!-- ROAST_END -->
