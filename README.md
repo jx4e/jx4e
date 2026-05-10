@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Saturday! Time to code with coffee in hand and no morning meetings to interrupt the flow ☕💻🚀
+Hey there! 🌞 Sunday coding vibes - debugging with coffee and zero weekend guilt! ☕
 <!-- GREETING_END -->
 
 ---
@@ -32,7 +32,7 @@ Happy Saturday! Time to code with coffee in hand and no morning meetings to inte
 | Dow | 49,609.16 | 🟢 +0.02% |
 | FTSE 100 | 10,233.10 | 🔴 -0.43% |
 
-*My code has more bugs than the Dow has gains today (0.02%), but at least the NASDAQ is debugging at 1.71% efficiency.*
+*My code commits are more consistent than the Dow's 0.02% gain while NASDAQ developers clearly pushed 1.71% more features to production today.*
 
 **Latest headlines:**
 - [The UK is set for a staycation summer - and there are plenty of hidden gems](https://www.bbc.com/news/articles/cgjpv9pdnpwo?at_medium=RSS&at_campaign=rss)
@@ -45,5 +45,5 @@ Happy Saturday! Time to code with coffee in hand and no morning meetings to inte
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer who peaked at "Boom Done" and then spent the rest of their career trying to compensate with unnecessarily verbose conventional commit messages.*
+*Your commit history reads like a developer with multiple personality disorder — going from the absolutely braindead "Boom Done" to actually decent conventional commits, proving you know better but sometimes just can't be bothered.*
 <!-- ROAST_END -->
