@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🌞 Sunday coding vibes - debugging with coffee and zero weekend guilt! ☕
+Monday mode: activated ☕ Time to turn coffee into code and bugs into features! 🚀
 <!-- GREETING_END -->
 
 ---
@@ -30,14 +30,14 @@ Hey there! 🌞 Sunday coding vibes - debugging with coffee and zero weekend gui
 | S&P 500 | 7,398.93 | 🟢 +0.84% |
 | NASDAQ | 26,247.08 | 🟢 +1.71% |
 | Dow | 49,609.16 | 🟢 +0.02% |
-| FTSE 100 | 10,233.10 | 🔴 -0.43% |
+| FTSE 100 | 10,235.93 | 🟢 +0.08% |
 
-*My code commits are more consistent than the Dow's 0.02% gain while NASDAQ developers clearly pushed 1.71% more features to production today.*
+*My code commits are more consistent than the Dow's 0.02% daily performance, but less volatile than NASDAQ's 1.71% swing - perfectly balanced, as all pull requests should be.*
 
 **Latest headlines:**
-- [The UK is set for a staycation summer - and there are plenty of hidden gems](https://www.bbc.com/news/articles/cgjpv9pdnpwo?at_medium=RSS&at_campaign=rss)
-- [US jet fuel could be used in Europe to ease possible shortages](https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss)
-- [Major train operator to be renationalised in months](https://www.bbc.com/news/articles/cy02yyl1e7xo?at_medium=RSS&at_campaign=rss)
+- [British Steel nationalisation plans announced by Starmer](https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss)
+- [Oil prices jump after Trump dismisses Iran proposal to end war](https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss)
+- [No summer border delays for Brits, Greek tourism minister says](https://www.bbc.com/news/articles/cn5pxyr9xr7o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🌞 Sunday coding vibes - debugging with coffee and zero weekend gui
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer with multiple personality disorder — going from the absolutely braindead "Boom Done" to actually decent conventional commits, proving you know better but sometimes just can't be bothered.*
+*You've got a whole collection of "Initial commit" clones like some sort of lazy git museum, but "Boom Done" takes the crown for being so aggressively unprofessional it makes your GitHub look like a middle schooler's homework folder.*
 <!-- ROAST_END -->
