@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Monday mode: activated ☕ Time to turn coffee into code and bugs into features! 🚀
+Hey there! 🚀 It's Tuesday - time to tackle those pull requests and turn coffee into code! ☕
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Monday mode: activated ☕ Time to turn coffee into code and bugs into features!
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,398.93 | 🟢 +0.84% |
-| NASDAQ | 26,247.08 | 🟢 +1.71% |
-| Dow | 49,609.16 | 🟢 +0.02% |
-| FTSE 100 | 10,235.93 | 🟢 +0.08% |
+| S&P 500 | 7,412.84 | 🟢 +0.19% |
+| NASDAQ | 26,274.13 | 🟢 +0.10% |
+| Dow | 49,704.47 | 🟢 +0.19% |
+| FTSE 100 | 10,225.67 | 🔴 -0.43% |
 
-*My code commits are more consistent than the Dow's 0.02% daily performance, but less volatile than NASDAQ's 1.71% swing - perfectly balanced, as all pull requests should be.*
+*My code has more bugs than the FTSE 100 has gains today (-0.43%), but at least the US markets are debugging at +0.19% and +0.10% respectively.*
 
 **Latest headlines:**
-- [British Steel nationalisation plans announced by Starmer](https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss)
-- [Oil prices jump after Trump dismisses Iran proposal to end war](https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss)
-- [No summer border delays for Brits, Greek tourism minister says](https://www.bbc.com/news/articles/cn5pxyr9xr7o?at_medium=RSS&at_campaign=rss)
+- [UK borrowing costs jump amid uncertainty over PM's future](https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss)
+- [Snack giant switches to black and white packaging as Iran war hits ink supplies](https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss)
+- [How driving test booking is changing for learner drivers](https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Monday mode: activated ☕ Time to turn coffee into code and bugs into features!
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You've got a whole collection of "Initial commit" clones like some sort of lazy git museum, but "Boom Done" takes the crown for being so aggressively unprofessional it makes your GitHub look like a middle schooler's homework folder.*
+*Your commit history reads like a developer who peaked at "Boom Done" and then got so embarrassed they overcompensated with a wall of verbose conventional commits to hide their shame.*
 <!-- ROAST_END -->
