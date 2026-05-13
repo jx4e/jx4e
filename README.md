@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🚀 It's Tuesday - time to tackle those pull requests and turn coffee into code! ☕
+Wednesday vibes: halfway through debugging this week's chaos! ☕💻🐛
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Hey there! 🚀 It's Tuesday - time to tackle those pull requests and turn coffe
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,412.84 | 🟢 +0.19% |
-| NASDAQ | 26,274.13 | 🟢 +0.10% |
-| Dow | 49,704.47 | 🟢 +0.19% |
-| FTSE 100 | 10,225.67 | 🔴 -0.43% |
+| S&P 500 | 7,400.96 | 🔴 -0.16% |
+| NASDAQ | 26,088.20 | 🔴 -0.71% |
+| Dow | 49,760.56 | 🟢 +0.11% |
+| FTSE 100 | 10,281.93 | 🟢 +0.27% |
 
-*My code has more bugs than the FTSE 100 has gains today (-0.43%), but at least the US markets are debugging at +0.19% and +0.10% respectively.*
+*My code commits are more consistent than today's markets: S&P down 0.16%, NASDAQ crashed 0.71%, Dow somehow went green at +0.11%, and FTSE proving even British indexes are having a better day than my debugging session.*
 
 **Latest headlines:**
-- [UK borrowing costs jump amid uncertainty over PM's future](https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss)
-- [Snack giant switches to black and white packaging as Iran war hits ink supplies](https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss)
-- [How driving test booking is changing for learner drivers](https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss)
+- [Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever](https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss)
+- [Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury](https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss)
+- [Elon Musk and Jensen Huang among CEOs joining Trump on China trip](https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🚀 It's Tuesday - time to tackle those pull requests and turn coffe
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer who peaked at "Boom Done" and then got so embarrassed they overcompensated with a wall of verbose conventional commits to hide their shame.*
+*Your commit history reads like a developer who peaks at "Boom Done" then immediately returns to writing novels about Prisma types and CSRF protection like some kind of caffeinated technical documentation bot.*
 <!-- ROAST_END -->
