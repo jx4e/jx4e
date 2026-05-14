@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Wednesday vibes: halfway through debugging this week's chaos! ☕💻🐛
+Hey there! 🚀 Almost made it through another week of debugging and coffee - let's crush this Thursday! ☕
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Wednesday vibes: halfway through debugging this week's chaos! ☕💻🐛
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,400.96 | 🔴 -0.16% |
-| NASDAQ | 26,088.20 | 🔴 -0.71% |
-| Dow | 49,760.56 | 🟢 +0.11% |
-| FTSE 100 | 10,281.93 | 🟢 +0.27% |
+| S&P 500 | 7,444.25 | 🟢 +0.58% |
+| NASDAQ | 26,402.34 | 🟢 +1.20% |
+| Dow | 49,693.20 | 🔴 -0.14% |
+| FTSE 100 | 10,353.58 | 🟢 +0.51% |
 
-*My code commits are more consistent than today's markets: S&P down 0.16%, NASDAQ crashed 0.71%, Dow somehow went green at +0.11%, and FTSE proving even British indexes are having a better day than my debugging session.*
+*My code commits are more consistent than the Dow today - while S&P and NASDAQ were debugging their way up 0.58% and 1.20%, the Dow deployed a -0.14% hotfix nobody asked for.*
 
 **Latest headlines:**
-- [Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever](https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss)
-- [Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury](https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss)
-- [Elon Musk and Jensen Huang among CEOs joining Trump on China trip](https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss)
+- [UK economy sees surprise growth in March despite Iran war](https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss)
+- [Warning higher Europe air fares 'inevitable' due to Iran war](https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss)
+- [HMRC to use AI from British tech firm to spot fraud and tax return errors](https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Wednesday vibes: halfway through debugging this week's chaos! ☕💻🐛
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer who peaks at "Boom Done" then immediately returns to writing novels about Prisma types and CSRF protection like some kind of caffeinated technical documentation bot.*
+*You've got three repos with the creativity of a GitHub template and "Boom Done" sounds like what a toddler says after using the potty for the first time.*
 <!-- ROAST_END -->
