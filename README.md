@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🚀 Almost made it through another week of debugging and coffee - let's crush this Thursday! ☕
+Happy Friday! Time to ship that last commit and embrace the weekend debugging session that definitely won't happen 🚀😅
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Hey there! 🚀 Almost made it through another week of debugging and coffee - le
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,444.25 | 🟢 +0.58% |
-| NASDAQ | 26,402.34 | 🟢 +1.20% |
-| Dow | 49,693.20 | 🔴 -0.14% |
-| FTSE 100 | 10,353.58 | 🟢 +0.51% |
+| S&P 500 | 7,501.24 | 🟢 +0.77% |
+| NASDAQ | 26,635.22 | 🟢 +0.88% |
+| Dow | 50,063.46 | 🟢 +0.75% |
+| FTSE 100 | 10,231.81 | 🔴 -1.26% |
 
-*My code commits are more consistent than the Dow today - while S&P and NASDAQ were debugging their way up 0.58% and 1.20%, the Dow deployed a -0.14% hotfix nobody asked for.*
+*My code commits are more consistent than today's markets - US indices all rallied ~0.8% while FTSE 100 dropped 1.26%, proving even global finance has merge conflicts.*
 
 **Latest headlines:**
-- [UK economy sees surprise growth in March despite Iran war](https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss)
-- [Warning higher Europe air fares 'inevitable' due to Iran war](https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss)
-- [HMRC to use AI from British tech firm to spot fraud and tax return errors](https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss)
+- [UK borrowing costs reach new high and pound falls as leadership drama continues](https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss)
+- [British Gas pays £20m over prepayment meter force-fitting scandal](https://www.bbc.com/news/articles/cq8p7l1y59lo?at_medium=RSS&at_campaign=rss)
+- [Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial](https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🚀 Almost made it through another week of debugging and coffee - le
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You've got three repos with the creativity of a GitHub template and "Boom Done" sounds like what a toddler says after using the potty for the first time.*
+*Your commit history is the perfect metaphor for your work ethic — starts strong with actual descriptive messages but inevitably devolves into the literary masterpiece that is "Boom Done," which somehow manages to contain less information than your three identical "Initial commit" messages.*
 <!-- ROAST_END -->
