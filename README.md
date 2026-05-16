@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Friday! Time to ship that last commit and embrace the weekend debugging session that definitely won't happen 🚀😅
+Weekend warrior mode activated! 🚀 Time to build something awesome while the world sleeps 💻
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Happy Friday! Time to ship that last commit and embrace the weekend debugging se
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,501.24 | 🟢 +0.77% |
-| NASDAQ | 26,635.22 | 🟢 +0.88% |
-| Dow | 50,063.46 | 🟢 +0.75% |
-| FTSE 100 | 10,231.81 | 🔴 -1.26% |
+| S&P 500 | 7,408.50 | 🔴 -1.24% |
+| NASDAQ | 26,225.14 | 🔴 -1.54% |
+| Dow | 49,526.17 | 🔴 -1.07% |
+| FTSE 100 | 10,195.40 | 🔴 -1.71% |
 
-*My code commits are more consistent than today's markets - US indices all rallied ~0.8% while FTSE 100 dropped 1.26%, proving even global finance has merge conflicts.*
+*My code has fewer bugs than the markets have losses today - S&P down 1.24%, NASDAQ down 1.54%, Dow down 1.07%, FTSE down 1.71% - at least my functions return something positive! 🐛📉*
 
 **Latest headlines:**
-- [UK borrowing costs reach new high and pound falls as leadership drama continues](https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss)
+- ['They took £20,000 I didn't owe': Parents hit by child maintenance errors](https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&at_campaign=rss)
+- [UK borrowing costs rise and pound falls as leadership drama continues](https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss)
 - [British Gas pays £20m over prepayment meter force-fitting scandal](https://www.bbc.com/news/articles/cq8p7l1y59lo?at_medium=RSS&at_campaign=rss)
-- [Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial](https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Friday! Time to ship that last commit and embrace the weekend debugging se
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history is the perfect metaphor for your work ethic — starts strong with actual descriptive messages but inevitably devolves into the literary masterpiece that is "Boom Done," which somehow manages to contain less information than your three identical "Initial commit" messages.*
+*Your commit history reads like a developer's emotional journey from creative exhaustion ("Initial commit" copy-paste syndrome) to complete mental breakdown, culminating in the masterpiece of laziness that is "Boom Done" — a message so aggressively unhelpful it makes your three identical "Initial commit" messages look like poetry.*
 <!-- ROAST_END -->
