@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Monday means fresh commits and new bugs to squash! 🐛💻☕
+Happy Tuesday! ☕ Debugging my way through the week, one commit at a time 🚀
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Monday means fresh commits and new bugs to squash! 🐛💻☕
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,408.50 | 🔴 -1.24% |
-| NASDAQ | 26,225.14 | 🔴 -1.54% |
-| Dow | 49,526.17 | 🔴 -1.07% |
-| FTSE 100 | 10,231.57 | 🟢 +0.56% |
+| S&P 500 | 7,403.05 | 🔴 -0.07% |
+| NASDAQ | 26,090.73 | 🔴 -0.51% |
+| Dow | 49,686.12 | 🟢 +0.32% |
+| FTSE 100 | 10,387.89 | 🟢 +0.89% |
 
-*My code has better uptime than today's markets - even the FTSE's +0.56% couldn't debug the S&P's -1.24% runtime error.*
+*My code has better consistency than today's markets: while the S&P (-0.07%) and NASDAQ (-0.51%) crashed like my first Python script, the Dow (+0.32%) and FTSE (+0.89%) somehow compiled successfully.*
 
 **Latest headlines:**
-- [UK growth forecast upgraded by IMF but risks remain ](https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss)
-- [HS2 failings blamed on high-speed focus and political pressure ](https://www.bbc.com/news/articles/c936xeeye41o?at_medium=RSS&at_campaign=rss)
-- [Global oil prices and bond yields rise after Trump warns Iran over stalled peace talks](https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss)
+- [UK unemployment rate unexpectedly rises](https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss)
+- [Faisal Islam: Burnham seeks to calm markets by committing to fiscal rules](https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss)
+- [Musk loses OpenAI court battle after jury finds he waited too long to sue](https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Monday means fresh commits and new bugs to squash! 🐛💻☕
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages are so creatively bankrupt that "Boom Done" somehow manages to be the most descriptive one in the entire list, which is saying something when you've got three variations of "Initial commit" competing for the laziness crown.*
+*Your commit history reads like a developer's journey from enlightenment to despair, with "fixed" being the lazy cherry on top of your technical debt sundae — because apparently even cavemen had more descriptive grunts.*
 <!-- ROAST_END -->
