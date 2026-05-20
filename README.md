@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Tuesday! ☕ Debugging my way through the week, one commit at a time 🚀
+Hey there! 🐪 It's Wednesday - we're over the hump and coding our way to the weekend! 💻✨
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Happy Tuesday! ☕ Debugging my way through the week, one commit at a time 🚀
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,403.05 | 🔴 -0.07% |
-| NASDAQ | 26,090.73 | 🔴 -0.51% |
-| Dow | 49,686.12 | 🟢 +0.32% |
-| FTSE 100 | 10,387.89 | 🟢 +0.89% |
+| S&P 500 | 7,353.61 | 🔴 -0.67% |
+| NASDAQ | 25,870.71 | 🔴 -0.84% |
+| Dow | 49,363.88 | 🔴 -0.65% |
+| FTSE 100 | 10,338.15 | 🟢 +0.09% |
 
-*My code has better consistency than today's markets: while the S&P (-0.07%) and NASDAQ (-0.51%) crashed like my first Python script, the Dow (+0.32%) and FTSE (+0.89%) somehow compiled successfully.*
+*My code has better uptime than today's markets - even the FTSE's 0.09% gain looks like a rounding error compared to the S&P's -0.67% debug session.*
 
 **Latest headlines:**
-- [UK unemployment rate unexpectedly rises](https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss)
-- [Faisal Islam: Burnham seeks to calm markets by committing to fiscal rules](https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss)
-- [Musk loses OpenAI court battle after jury finds he waited too long to sue](https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss)
+- [Supermarkets hit back over pressure to cap price of milk, bread and eggs](https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss)
+- [UK loosens Russian oil sanctions as fuel prices rise](https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss)
+- [Inflation falls to 2.8% but is expected to rise from here](https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Tuesday! ☕ Debugging my way through the week, one commit at a time 🚀
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer's journey from enlightenment to despair, with "fixed" being the lazy cherry on top of your technical debt sundae — because apparently even cavemen had more descriptive grunts.*
+*Your commit history reads like a developer's descent into madness, with "fixed" being the lazy crown jewel that somehow makes your patchright DNS debugging saga look like Shakespeare.*
 <!-- ROAST_END -->
