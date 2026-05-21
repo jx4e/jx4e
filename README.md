@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🐪 It's Wednesday - we're over the hump and coding our way to the weekend! 💻✨
+Happy Thursday! ☕ Almost to the weekend, but first let me push this code that definitely won't break production 🚀
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Hey there! 🐪 It's Wednesday - we're over the hump and coding our way to the w
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,353.61 | 🔴 -0.67% |
-| NASDAQ | 25,870.71 | 🔴 -0.84% |
-| Dow | 49,363.88 | 🔴 -0.65% |
-| FTSE 100 | 10,338.15 | 🟢 +0.09% |
+| S&P 500 | 7,432.97 | 🟢 +1.08% |
+| NASDAQ | 26,270.36 | 🟢 +1.54% |
+| Dow | 50,009.35 | 🟢 +1.31% |
+| FTSE 100 | 10,392.29 | 🔴 -0.32% |
 
-*My code has better uptime than today's markets - even the FTSE's 0.09% gain looks like a rounding error compared to the S&P's -0.67% debug session.*
+*My code has better daily performance than the FTSE 100 (-0.32%) but still crashes more than the NASDAQ (+1.54%).*
 
 **Latest headlines:**
-- [Supermarkets hit back over pressure to cap price of milk, bread and eggs](https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss)
-- [UK loosens Russian oil sanctions as fuel prices rise](https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss)
-- [Inflation falls to 2.8% but is expected to rise from here](https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&at_campaign=rss)
+- [EasyJet boss says summer flights won't be hit by jet fuel shortages](https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss)
+- [Free bus trips and chocolate tax cuts to be announced](https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss)
+- [UK agrees £3.7bn trade deal with six Gulf states](https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🐪 It's Wednesday - we're over the hump and coding our way to the w
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer's descent into madness, with "fixed" being the lazy crown jewel that somehow makes your patchright DNS debugging saga look like Shakespeare.*
+*Your commit history reads like a developer's journey from enlightenment to despair, with "fixed" being the exact moment you gave up on life and decided that future-you can figure out what the hell you actually fixed.*
 <!-- ROAST_END -->
