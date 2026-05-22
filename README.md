@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Thursday! ☕ Almost to the weekend, but first let me push this code that definitely won't break production 🚀
+Hey there! 🎉 It's Friday - time to deploy that feature you've been perfecting all week! 🚀
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Happy Thursday! ☕ Almost to the weekend, but first let me push this code that 
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,432.97 | 🟢 +1.08% |
-| NASDAQ | 26,270.36 | 🟢 +1.54% |
-| Dow | 50,009.35 | 🟢 +1.31% |
-| FTSE 100 | 10,392.29 | 🔴 -0.32% |
+| S&P 500 | 7,445.72 | 🟢 +0.17% |
+| NASDAQ | 26,293.10 | 🟢 +0.09% |
+| Dow | 50,285.66 | 🟢 +0.55% |
+| FTSE 100 | 10,483.18 | 🟢 +0.16% |
 
-*My code has better daily performance than the FTSE 100 (-0.32%) but still crashes more than the NASDAQ (+1.54%).*
+*My code commits today were more volatile than the markets - at least the Dow managed a solid 0.55% while my pull requests are still pending review.*
 
 **Latest headlines:**
-- [EasyJet boss says summer flights won't be hit by jet fuel shortages](https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss)
-- [Free bus trips and chocolate tax cuts to be announced](https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss)
-- [UK agrees £3.7bn trade deal with six Gulf states](https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss)
+- [Stop blaming young people for being unemployed, says Amazon's UK boss](https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss)
+- [Morrisons planning to close 100 stores in next few months](https://www.bbc.com/news/articles/c3623ny298xo?at_medium=RSS&at_campaign=rss)
+- [Borrowing in April hit highest level since Covid](https://www.bbc.com/news/articles/ce9py7nx8j4o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Thursday! ☕ Almost to the weekend, but first let me push this code that 
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer's journey from enlightenment to despair, with "fixed" being the exact moment you gave up on life and decided that future-you can figure out what the hell you actually fixed.*
+*Your commit messages are mostly decent until that masterpiece "fixed" — apparently even your DegenAgents have more creativity than whatever braindead moment produced that literary abortion.*
 <!-- ROAST_END -->
