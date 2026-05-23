@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🎉 It's Friday - time to deploy that feature you've been perfecting all week! 🚀
+Weekend warrior coding in pajamas 🚀☕🎯
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Hey there! 🎉 It's Friday - time to deploy that feature you've been perfecting
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,445.72 | 🟢 +0.17% |
-| NASDAQ | 26,293.10 | 🟢 +0.09% |
-| Dow | 50,285.66 | 🟢 +0.55% |
-| FTSE 100 | 10,483.18 | 🟢 +0.16% |
+| S&P 500 | 7,473.47 | 🟢 +0.37% |
+| NASDAQ | 26,343.97 | 🟢 +0.19% |
+| Dow | 50,579.70 | 🟢 +0.58% |
+| FTSE 100 | 10,466.30 | 🟢 +0.22% |
 
-*My code commits today were more volatile than the markets - at least the Dow managed a solid 0.55% while my pull requests are still pending review.*
+*My code debugging skills are about as consistent as today's market gains - S&P up 0.37%, NASDAQ crawling at 0.19%, but somehow the Dow managed 0.58% like that one function that mysteriously works perfectly on the first try.*
 
 **Latest headlines:**
 - [Stop blaming young people for being unemployed, says Amazon's UK boss](https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss)
-- [Morrisons planning to close 100 stores in next few months](https://www.bbc.com/news/articles/c3623ny298xo?at_medium=RSS&at_campaign=rss)
-- [Borrowing in April hit highest level since Covid](https://www.bbc.com/news/articles/ce9py7nx8j4o?at_medium=RSS&at_campaign=rss)
+- [Bank boss sorry after describing workers as 'lower value human capital'](https://www.bbc.com/news/articles/c98rqld1j3yo?at_medium=RSS&at_campaign=rss)
+- [AI may speed up search for drugs to treat brain conditions](https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🎉 It's Friday - time to deploy that feature you've been perfecting
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages are mostly decent until that masterpiece "fixed" — apparently even your DegenAgents have more creativity than whatever braindead moment produced that literary abortion.*
+*You built a whole damn betting AI with sophisticated Kelly criterion risk management and multi-agent debate systems, then threw it all away with "fixed" — apparently even your commit messages are gambling addicts.*
 <!-- ROAST_END -->
