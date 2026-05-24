@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Weekend warrior coding in pajamas 🚀☕🎯
+Happy Sunday! Taking a break from debugging to debug my life instead 🧘‍♂️☕️✨
 <!-- GREETING_END -->
 
 ---
@@ -32,12 +32,12 @@ Weekend warrior coding in pajamas 🚀☕🎯
 | Dow | 50,579.70 | 🟢 +0.58% |
 | FTSE 100 | 10,466.30 | 🟢 +0.22% |
 
-*My code debugging skills are about as consistent as today's market gains - S&P up 0.37%, NASDAQ crawling at 0.19%, but somehow the Dow managed 0.58% like that one function that mysteriously works perfectly on the first try.*
+*My code commits are more volatile than today's markets - at least the Dow's 0.58% gain didn't get reverted like my last pull request.*
 
 **Latest headlines:**
+- ['Six eggs used to be £1' - why everyday essentials cost so much more now](https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss)
+- ['Shameful' more spent on benefits than jobs for young people, says Milburn](https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss)
 - [Stop blaming young people for being unemployed, says Amazon's UK boss](https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss)
-- [Bank boss sorry after describing workers as 'lower value human capital'](https://www.bbc.com/news/articles/c98rqld1j3yo?at_medium=RSS&at_campaign=rss)
-- [AI may speed up search for drugs to treat brain conditions](https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Weekend warrior coding in pajamas 🚀☕🎯
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You built a whole damn betting AI with sophisticated Kelly criterion risk management and multi-agent debate systems, then threw it all away with "fixed" — apparently even your commit messages are gambling addicts.*
+*Your commit history reads like a developer's descent into madness, with "fixed" being so astronomically lazy it makes your other 29 messages look like Shakespeare by comparison.*
 <!-- ROAST_END -->
