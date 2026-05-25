@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Sunday! Taking a break from debugging to debug my life instead 🧘‍♂️☕️✨
+🚀 Monday motivation: debugging the weekend away and shipping fresh code! ☕
 <!-- GREETING_END -->
 
 ---
@@ -32,12 +32,12 @@ Happy Sunday! Taking a break from debugging to debug my life instead 🧘‍♂�
 | Dow | 50,579.70 | 🟢 +0.58% |
 | FTSE 100 | 10,466.30 | 🟢 +0.22% |
 
-*My code commits are more volatile than today's markets - at least the Dow's 0.58% gain didn't get reverted like my last pull request.*
+*My code commits are more volatile than today's markets - while the Dow gained 0.58% and NASDAQ crept up 0.19%, my GitHub streak is up 100% (I actually pushed something that didn't break production).*
 
 **Latest headlines:**
-- ['Six eggs used to be £1' - why everyday essentials cost so much more now](https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss)
-- ['Shameful' more spent on benefits than jobs for young people, says Milburn](https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss)
-- [Stop blaming young people for being unemployed, says Amazon's UK boss](https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss)
+- [Oil prices slide on hopes of US-Iran peace deal](https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss)
+- [Beer boom goes flat as breweries call last orders](https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss)
+- ['I live in survival mode': The rise of the multi-job workforce](https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Sunday! Taking a break from debugging to debug my life instead 🧘‍♂�
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer's descent into madness, with "fixed" being so astronomically lazy it makes your other 29 messages look like Shakespeare by comparison.*
+*Your commit history reads like a developer's journey from enlightenment to exhaustion, with "fixed" being the exact moment your soul left your body and you gave up on human communication entirely.*
 <!-- ROAST_END -->
