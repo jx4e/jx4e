@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-🚀 Monday motivation: debugging the weekend away and shipping fresh code! ☕
+Hey there! 🐪 Midweek coding vibes - let's debug the world one commit at a time! ⚡
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,473.47 | 🟢 +0.37% |
-| NASDAQ | 26,343.97 | 🟢 +0.19% |
-| Dow | 50,579.70 | 🟢 +0.58% |
-| FTSE 100 | 10,466.30 | 🟢 +0.22% |
+| S&P 500 | 7,519.12 | 🟢 +0.61% |
+| NASDAQ | 26,656.18 | 🟢 +1.19% |
+| Dow | 50,461.68 | 🔴 -0.23% |
+| FTSE 100 | 10,508.59 | 🟢 +0.09% |
 
-*My code commits are more volatile than today's markets - while the Dow gained 0.58% and NASDAQ crept up 0.19%, my GitHub streak is up 100% (I actually pushed something that didn't break production).*
+*My code commits are more consistent than the Dow today - while S&P and NASDAQ were debugging successfully (+0.61%, +1.19%), Dow clearly had a merge conflict (-0.23%) and FTSE was stuck in an infinite loop barely incrementing (+0.09%).*
 
 **Latest headlines:**
-- [Oil prices slide on hopes of US-Iran peace deal](https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss)
-- [Beer boom goes flat as breweries call last orders](https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss)
-- ['I live in survival mode': The rise of the multi-job workforce](https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss)
+- [Energy bills to rise for millions as impact of Iran war hits](https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss)
+- [What will the energy cap changes mean for my bills?](https://www.bbc.com/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss)
+- ['Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal](https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer's journey from enlightenment to exhaustion, with "fixed" being the exact moment your soul left your body and you gave up on human communication entirely.*
+*Your commit history reads like a gambling addiction recovery journal, but at least "fixed" shows you've given up all pretense of being a professional developer.*
 <!-- ROAST_END -->
