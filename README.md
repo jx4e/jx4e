@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🐪 Midweek coding vibes - let's debug the world one commit at a time! ⚡
+Hey there! 🚀 Almost made it to Friday - debugging through Thursday like a champ! 💻
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Hey there! 🐪 Midweek coding vibes - let's debug the world one commit at a tim
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,519.12 | 🟢 +0.61% |
-| NASDAQ | 26,656.18 | 🟢 +1.19% |
-| Dow | 50,461.68 | 🔴 -0.23% |
-| FTSE 100 | 10,508.59 | 🟢 +0.09% |
+| S&P 500 | 7,520.36 | 🟢 +0.02% |
+| NASDAQ | 26,674.73 | 🟢 +0.07% |
+| Dow | 50,644.28 | 🟢 +0.36% |
+| FTSE 100 | 10,382.05 | 🔴 -1.20% |
 
-*My code commits are more consistent than the Dow today - while S&P and NASDAQ were debugging successfully (+0.61%, +1.19%), Dow clearly had a merge conflict (-0.23%) and FTSE was stuck in an infinite loop barely incrementing (+0.09%).*
+*My code has more consistent performance than today's markets - at least my bugs are reproducible, unlike the FTSE's -1.20% while everything else barely moved.*
 
 **Latest headlines:**
-- [Energy bills to rise for millions as impact of Iran war hits](https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss)
-- [What will the energy cap changes mean for my bills?](https://www.bbc.com/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss)
-- ['Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal](https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss)
+- [Ousted BP chairman hits back at 'lies' about his behaviour](https://www.bbc.com/news/articles/cy92rzn5v7vo?at_medium=RSS&at_campaign=rss)
+- [The £5 coffee that tells a story of global economic turmoil](https://www.bbc.com/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss)
+- [Young people out of work or training costing UK £125bn as report warns of 'perfect storm'](https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🐪 Midweek coding vibes - let's debug the world one commit at a tim
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a gambling addiction recovery journal, but at least "fixed" shows you've given up all pretense of being a professional developer.*
+*Your commit history reads like a developer's descent into madness, with "fixed" being so lazy it makes your other 29 verbose messages look like Shakespeare by comparison.*
 <!-- ROAST_END -->
