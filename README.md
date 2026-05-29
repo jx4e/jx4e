@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🚀 Almost made it to Friday - debugging through Thursday like a champ! 💻
+Happy Friday! 🎉 Time to deploy and disappear into the weekend! 🚀
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Hey there! 🚀 Almost made it to Friday - debugging through Thursday like a cha
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,520.36 | 🟢 +0.02% |
-| NASDAQ | 26,674.73 | 🟢 +0.07% |
-| Dow | 50,644.28 | 🟢 +0.36% |
-| FTSE 100 | 10,382.05 | 🔴 -1.20% |
+| S&P 500 | 7,563.63 | 🟢 +0.58% |
+| NASDAQ | 26,917.47 | 🟢 +0.91% |
+| Dow | 50,668.97 | 🟢 +0.05% |
+| FTSE 100 | 10,459.57 | 🟢 +0.26% |
 
-*My code has more consistent performance than today's markets - at least my bugs are reproducible, unlike the FTSE's -1.20% while everything else barely moved.*
+*My code commits are more consistent than the Dow's 0.05% gain while the NASDAQ's 0.91% proves that tech stocks and my debugging skills both have their unpredictable moments.*
 
 **Latest headlines:**
-- [Ousted BP chairman hits back at 'lies' about his behaviour](https://www.bbc.com/news/articles/cy92rzn5v7vo?at_medium=RSS&at_campaign=rss)
-- [The £5 coffee that tells a story of global economic turmoil](https://www.bbc.com/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss)
-- [Young people out of work or training costing UK £125bn as report warns of 'perfect storm'](https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss)
+- [Top UK chefs call for 10% VAT cut for pubs and restaurants](https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss)
+- [Opportunities shrinking for too many young people, says major report on 'lost generation'](https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss)
+- ['I've applied for more than 400 roles' - how young people are facing the job shortage](https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🚀 Almost made it to Friday - debugging through Thursday like a cha
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer's descent into madness, with "fixed" being so lazy it makes your other 29 verbose messages look like Shakespeare by comparison.*
+*Your commit game is mostly solid except for that catastrophically lazy "fixed" message that tells us absolutely nothing about what you actually fixed, making it the digital equivalent of answering "stuff" when someone asks what you did today.*
 <!-- ROAST_END -->
