@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Friday! 🎉 Time to deploy and disappear into the weekend! 🚀
+Happy Saturday! Time to debug that side project you've been ignoring all week 🐛💻☕
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Happy Friday! 🎉 Time to deploy and disappear into the weekend! 🚀
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,563.63 | 🟢 +0.58% |
-| NASDAQ | 26,917.47 | 🟢 +0.91% |
-| Dow | 50,668.97 | 🟢 +0.05% |
-| FTSE 100 | 10,459.57 | 🟢 +0.26% |
+| S&P 500 | 7,580.06 | 🟢 +0.22% |
+| NASDAQ | 26,972.62 | 🟢 +0.20% |
+| Dow | 51,032.46 | 🟢 +0.72% |
+| FTSE 100 | 10,409.30 | 🔴 -0.16% |
 
-*My code commits are more consistent than the Dow's 0.05% gain while the NASDAQ's 0.91% proves that tech stocks and my debugging skills both have their unpredictable moments.*
+*My code commits are more consistent than today's markets: S&P and NASDAQ barely moved (0.22%, 0.20%), Dow had a good day (+0.72%), but FTSE apparently failed its unit tests (-0.16%).*
 
 **Latest headlines:**
-- [Top UK chefs call for 10% VAT cut for pubs and restaurants](https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss)
-- [Opportunities shrinking for too many young people, says major report on 'lost generation'](https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss)
-- ['I've applied for more than 400 roles' - how young people are facing the job shortage](https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&at_campaign=rss)
+- [Only three-quarters of first class mail delivered on time](https://www.bbc.com/news/articles/cy02jyxz26po?at_medium=RSS&at_campaign=rss)
+- [Universal rejects billionaire Bill Ackman's takeover bid ](https://www.bbc.com/news/articles/cn8pnd9yj4eo?at_medium=RSS&at_campaign=rss)
+- [Top UK chefs call for cutting VAT for pubs and restaurants to 10%](https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Friday! 🎉 Time to deploy and disappear into the weekend! 🚀
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit game is mostly solid except for that catastrophically lazy "fixed" message that tells us absolutely nothing about what you actually fixed, making it the digital equivalent of answering "stuff" when someone asks what you did today.*
+*Your commit history reads like a gambling addiction support group where everyone's really good at git except for that one guy who just says "fixed" and ruins it for everyone.*
 <!-- ROAST_END -->
