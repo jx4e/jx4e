@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Saturday! Time to debug that side project you've been ignoring all week 🐛💻☕
+Sunday vibes: debugging with coffee and zero urgency ☕️ 🐛 ✨
 <!-- GREETING_END -->
 
 ---
@@ -32,12 +32,12 @@ Happy Saturday! Time to debug that side project you've been ignoring all week �
 | Dow | 51,032.46 | 🟢 +0.72% |
 | FTSE 100 | 10,409.30 | 🔴 -0.16% |
 
-*My code commits are more consistent than today's markets: S&P and NASDAQ barely moved (0.22%, 0.20%), Dow had a good day (+0.72%), but FTSE apparently failed its unit tests (-0.16%).*
+*My code has more bugs than the FTSE has gains today (-0.16%), but at least the Dow is debugging at +0.72% efficiency.*
 
 **Latest headlines:**
-- [Only three-quarters of first class mail delivered on time](https://www.bbc.com/news/articles/cy02jyxz26po?at_medium=RSS&at_campaign=rss)
-- [Universal rejects billionaire Bill Ackman's takeover bid ](https://www.bbc.com/news/articles/cn8pnd9yj4eo?at_medium=RSS&at_campaign=rss)
-- [Top UK chefs call for cutting VAT for pubs and restaurants to 10%](https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss)
+- [Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started](https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss)
+- [Arrive three hours before flight home, airline boss tells UK holidaymakers](https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&at_campaign=rss)
+- [Why Britain's notoriously bad train wi-fi might soon be a thing of the past](https://www.bbc.com/news/articles/cn8pn4l03r7o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Saturday! Time to debug that side project you've been ignoring all week �
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a gambling addiction support group where everyone's really good at git except for that one guy who just says "fixed" and ruins it for everyone.*
+*Your commit history reads like a developer's journey from enlightenment to exhaustion, with "fixed" being the exact moment your brain gave up and decided that future-you can play detective.*
 <!-- ROAST_END -->
