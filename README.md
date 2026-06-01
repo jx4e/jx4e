@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Sunday vibes: debugging with coffee and zero urgency ☕️ 🐛 ✨
+Monday motivation: brewing fresh code and debugging with determination! ☕💻🚀
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Sunday vibes: debugging with coffee and zero urgency ☕️ 🐛 ✨
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,580.06 | 🟢 +0.22% |
-| NASDAQ | 26,972.62 | 🟢 +0.20% |
-| Dow | 51,032.46 | 🟢 +0.72% |
-| FTSE 100 | 10,409.30 | 🔴 -0.16% |
+| S&P 500 | 7,581.96 | 🟢 +0.03% |
+| NASDAQ | 27,008.12 | 🟢 +0.13% |
+| Dow | 50,905.25 | 🔴 -0.25% |
+| FTSE 100 | 10,320.65 | 🔴 -0.92% |
 
-*My code has more bugs than the FTSE has gains today (-0.16%), but at least the Dow is debugging at +0.72% efficiency.*
+*My code has better consistency than today's markets: NASDAQ up 0.13%, S&P barely positive at 0.03%, Dow red at -0.25%, and FTSE diving -0.92% - at least my bugs are reproducible.*
 
 **Latest headlines:**
-- [Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started](https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss)
-- [Arrive three hours before flight home, airline boss tells UK holidaymakers](https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&at_campaign=rss)
-- [Why Britain's notoriously bad train wi-fi might soon be a thing of the past](https://www.bbc.com/news/articles/cn8pn4l03r7o?at_medium=RSS&at_campaign=rss)
+- [Wise under investigation over money laundering control concerns](https://www.bbc.com/news/articles/cy42x8ye02vo?at_medium=RSS&at_campaign=rss)
+- [Abusive passengers could be blacklisted from all airlines under new proposal](https://www.bbc.com/news/articles/c707pknywjno?at_medium=RSS&at_campaign=rss)
+- [EasyJet says possible takeover bid 'opportunistic'](https://www.bbc.com/news/articles/c042071p96po?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Sunday vibes: debugging with coffee and zero urgency ☕️ 🐛 ✨
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer's journey from enlightenment to exhaustion, with "fixed" being the exact moment your brain gave up and decided that future-you can play detective.*
+*Your commit history reads like a descent into madness where "fixed" stands as the laziest monument to your complete surrender to proper documentation.*
 <!-- ROAST_END -->
