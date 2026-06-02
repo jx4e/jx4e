@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Monday motivation: brewing fresh code and debugging with determination! ☕💻🚀
+Happy Tuesday! ☕ Ready to tackle those bugs and ship some code! 🚀
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Monday motivation: brewing fresh code and debugging with determination! ☕💻�
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,581.96 | 🟢 +0.03% |
-| NASDAQ | 27,008.12 | 🟢 +0.13% |
-| Dow | 50,905.25 | 🔴 -0.25% |
-| FTSE 100 | 10,320.65 | 🔴 -0.92% |
+| S&P 500 | 7,599.96 | 🟢 +0.26% |
+| NASDAQ | 27,086.81 | 🟢 +0.42% |
+| Dow | 51,078.88 | 🟢 +0.09% |
+| FTSE 100 | 10,366.30 | 🟢 +0.41% |
 
-*My code has better consistency than today's markets: NASDAQ up 0.13%, S&P barely positive at 0.03%, Dow red at -0.25%, and FTSE diving -0.92% - at least my bugs are reproducible.*
+*My code had fewer bugs today than the Dow had gains - we both barely moved with that 0.09% performance.*
 
 **Latest headlines:**
-- [Wise under investigation over money laundering control concerns](https://www.bbc.com/news/articles/cy42x8ye02vo?at_medium=RSS&at_campaign=rss)
-- [Abusive passengers could be blacklisted from all airlines under new proposal](https://www.bbc.com/news/articles/c707pknywjno?at_medium=RSS&at_campaign=rss)
-- [EasyJet says possible takeover bid 'opportunistic'](https://www.bbc.com/news/articles/c042071p96po?at_medium=RSS&at_campaign=rss)
+- [AI giant Anthropic plans to sell shares in US as valuation nears $1tn](https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss)
+- [Third of people say uni degree not worth it, as student loan inquiry begins ](https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss)
+- [Post Office scandal victim dedicates OBE to 'sub-postmasters we have lost'](https://www.bbc.com/news/videos/cx2186r2vj8o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Monday motivation: brewing fresh code and debugging with determination! ☕💻�
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a descent into madness where "fixed" stands as the laziest monument to your complete surrender to proper documentation.*
+*You went from writing pristine, descriptive commit messages like "feat: DOM mutation significance heuristic" to literally just "- fixed" like you gave up on life and decided to communicate exclusively in caveman grunts.*
 <!-- ROAST_END -->
