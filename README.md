@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Tuesday! ☕ Ready to tackle those bugs and ship some code! 🚀
+Hey there! 🐪 It's Wednesday - halfway through the code marathon, time to debug those hump day blues! 💻
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Happy Tuesday! ☕ Ready to tackle those bugs and ship some code! 🚀
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,599.96 | 🟢 +0.26% |
-| NASDAQ | 27,086.81 | 🟢 +0.42% |
-| Dow | 51,078.88 | 🟢 +0.09% |
-| FTSE 100 | 10,366.30 | 🟢 +0.41% |
+| S&P 500 | 7,609.78 | 🟢 +0.13% |
+| NASDAQ | 27,093.90 | 🟢 +0.03% |
+| Dow | 51,307.79 | 🟢 +0.45% |
+| FTSE 100 | 10,336.22 | 🔴 -0.39% |
 
-*My code had fewer bugs today than the Dow had gains - we both barely moved with that 0.09% performance.*
+*My code has more bugs than the NASDAQ has gains today (0.03% - ouch).*
 
 **Latest headlines:**
-- [AI giant Anthropic plans to sell shares in US as valuation nears $1tn](https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss)
-- [Third of people say uni degree not worth it, as student loan inquiry begins ](https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss)
-- [Post Office scandal victim dedicates OBE to 'sub-postmasters we have lost'](https://www.bbc.com/news/videos/cx2186r2vj8o?at_medium=RSS&at_campaign=rss)
+- [US announces new tariffs over forced labour concerns](https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss)
+- [Three-quarters of workers not on track for 'moderate' pension income, report suggests](https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss)
+- [The 18 creatures in the running to be on the new banknotes](https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Tuesday! ☕ Ready to tackle those bugs and ship some code! 🚀
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*You went from writing pristine, descriptive commit messages like "feat: DOM mutation significance heuristic" to literally just "- fixed" like you gave up on life and decided to communicate exclusively in caveman grunts.*
+*Your commit history reads like a masterpiece of engineering discipline until it crashes into "- fixed" like a Tesla hitting a concrete barrier — what exactly did you fix, the code or your will to live?*
 <!-- ROAST_END -->
