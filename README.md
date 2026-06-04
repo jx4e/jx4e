@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🐪 It's Wednesday - halfway through the code marathon, time to debug those hump day blues! 💻
+Thursday vibes: halfway to the weekend but still pushing commits! ⚡🚀💻
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Hey there! 🐪 It's Wednesday - halfway through the code marathon, time to debu
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,609.78 | 🟢 +0.13% |
-| NASDAQ | 27,093.90 | 🟢 +0.03% |
-| Dow | 51,307.79 | 🟢 +0.45% |
-| FTSE 100 | 10,336.22 | 🔴 -0.39% |
+| S&P 500 | 7,553.68 | 🔴 -0.74% |
+| NASDAQ | 26,853.98 | 🔴 -0.89% |
+| Dow | 50,687.07 | 🔴 -1.21% |
+| FTSE 100 | 10,258.62 | 🔴 -0.80% |
 
-*My code has more bugs than the NASDAQ has gains today (0.03% - ouch).*
+*My code has fewer bugs than the market has red numbers today: S&P -0.74%, NASDAQ -0.89%, Dow -1.21%, FTSE -0.80% - at least my functions actually return something positive.*
 
 **Latest headlines:**
-- [US announces new tariffs over forced labour concerns](https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss)
+- [SpaceX says it's worth $1.75tn as it targets largest stock market debut](https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss)
+- ['I lost thousands in savings and my partner's money is in limbo'](https://www.bbc.com/news/articles/c15215lz3k0o?at_medium=RSS&at_campaign=rss)
 - [Three-quarters of workers not on track for 'moderate' pension income, report suggests](https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss)
-- [The 18 creatures in the running to be on the new banknotes](https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🐪 It's Wednesday - halfway through the code marathon, time to debu
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a masterpiece of engineering discipline until it crashes into "- fixed" like a Tesla hitting a concrete barrier — what exactly did you fix, the code or your will to live?*
+*Your commits read like a tech diary with impressive detail until "[jx4e/DegenAgents] - fixed" rolled in like a drunk person trying to explain what they broke at 3am.*
 <!-- ROAST_END -->
