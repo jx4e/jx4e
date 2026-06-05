@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Thursday vibes: halfway to the weekend but still pushing commits! ⚡🚀💻
+Ready to deploy some weekend prep code! 🚀 Happy Friday, fellow developers! ☕
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Thursday vibes: halfway to the weekend but still pushing commits! ⚡🚀💻
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,553.68 | 🔴 -0.74% |
-| NASDAQ | 26,853.98 | 🔴 -0.89% |
-| Dow | 50,687.07 | 🔴 -1.21% |
-| FTSE 100 | 10,258.62 | 🔴 -0.80% |
+| S&P 500 | 7,584.31 | 🟢 +0.41% |
+| NASDAQ | 26,830.96 | 🔴 -0.09% |
+| Dow | 51,561.93 | 🟢 +1.73% |
+| FTSE 100 | 10,400.21 | 🟢 +0.51% |
 
-*My code has fewer bugs than the market has red numbers today: S&P -0.74%, NASDAQ -0.89%, Dow -1.21%, FTSE -0.80% - at least my functions actually return something positive.*
+*My code runs smoother than the NASDAQ today - while the Dow gained 1.73%, my debugging skills went down 0.09% and my coffee intake spiked harder than the S&P's 0.41%.*
 
 **Latest headlines:**
-- [SpaceX says it's worth $1.75tn as it targets largest stock market debut](https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss)
-- ['I lost thousands in savings and my partner's money is in limbo'](https://www.bbc.com/news/articles/c15215lz3k0o?at_medium=RSS&at_campaign=rss)
-- [Three-quarters of workers not on track for 'moderate' pension income, report suggests](https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss)
+- [We need to stop AI developing without humans, says Anthropic co-founder](https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss)
+- [Who can buy shares in Elon Musk's SpaceX?](https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss)
+- [British Heart Foundation plans to close 150 charity shops](https://www.bbc.com/news/articles/cvgzg48d9q0o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Thursday vibes: halfway to the weekend but still pushing commits! ⚡🚀💻
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits read like a tech diary with impressive detail until "[jx4e/DegenAgents] - fixed" rolled in like a drunk person trying to explain what they broke at 3am.*
+*Your commit messages are actually pretty solid except for "- fixed" which has the same energy as leaving "TODO: fix this later" in production code and calling it done.*
 <!-- ROAST_END -->
