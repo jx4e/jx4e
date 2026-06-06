@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Ready to deploy some weekend prep code! 🚀 Happy Friday, fellow developers! ☕
+Weekend coding mode activated! ☕ Time to hack on some passion projects 🚀
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Ready to deploy some weekend prep code! 🚀 Happy Friday, fellow developers! �
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,584.31 | 🟢 +0.41% |
-| NASDAQ | 26,830.96 | 🔴 -0.09% |
-| Dow | 51,561.93 | 🟢 +1.73% |
-| FTSE 100 | 10,400.21 | 🟢 +0.51% |
+| S&P 500 | 7,383.74 | 🔴 -2.64% |
+| NASDAQ | 25,709.43 | 🔴 -4.18% |
+| Dow | 50,866.78 | 🔴 -1.35% |
+| FTSE 100 | 10,368.10 | 🟢 +0.08% |
 
-*My code runs smoother than the NASDAQ today - while the Dow gained 1.73%, my debugging skills went down 0.09% and my coffee intake spiked harder than the S&P's 0.41%.*
+*My code has fewer bugs than the NASDAQ has percentage points today (-4.18% and counting).*
 
 **Latest headlines:**
 - [We need to stop AI developing without humans, says Anthropic co-founder](https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss)
-- [Who can buy shares in Elon Musk's SpaceX?](https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss)
-- [British Heart Foundation plans to close 150 charity shops](https://www.bbc.com/news/articles/cvgzg48d9q0o?at_medium=RSS&at_campaign=rss)
+- [Trump to meet AI leaders to discuss US investment in their companies](https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss)
+- [US stocks slump as fears over Big Tech shake Wall Street](https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Ready to deploy some weekend prep code! 🚀 Happy Friday, fellow developers! �
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages are actually pretty solid except for "- fixed" which has the same energy as leaving "TODO: fix this later" in production code and calling it done.*
+*Your commit history reads like a developer portfolio until it hits "- fixed" — the laziest two-word shrug that makes every other thoughtful message look like you had a stroke halfway through the project.*
 <!-- ROAST_END -->
