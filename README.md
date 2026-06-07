@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Weekend coding mode activated! ☕ Time to hack on some passion projects 🚀
+Hey there! 🌞 Sunday coding sessions hit different - grab some coffee and let's build something awesome! ☕
 <!-- GREETING_END -->
 
 ---
@@ -32,12 +32,12 @@ Weekend coding mode activated! ☕ Time to hack on some passion projects 🚀
 | Dow | 50,866.78 | 🔴 -1.35% |
 | FTSE 100 | 10,368.10 | 🟢 +0.08% |
 
-*My code has fewer bugs than the NASDAQ has percentage points today (-4.18% and counting).*
+*My code has better uptime than today's NASDAQ which crashed harder than my first Python script (-4.18% vs my usual segfaults).*
 
 **Latest headlines:**
-- [We need to stop AI developing without humans, says Anthropic co-founder](https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss)
-- [Trump to meet AI leaders to discuss US investment in their companies](https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss)
-- [US stocks slump as fears over Big Tech shake Wall Street](https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss)
+- [I was applying for hundreds of jobs - this tip helped me get one](https://www.bbc.com/news/articles/cd7pqwr5lqxo?at_medium=RSS&at_campaign=rss)
+- [Cake sheds are making bakers £1,000 a week - but the dream might be over](https://www.bbc.com/news/articles/crlpwd2prd0o?at_medium=RSS&at_campaign=rss)
+- [Fizzy drink cans recalled as they 'may rupture unexpectedly'](https://www.bbc.com/news/articles/ce8j0mxy28do?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Weekend coding mode activated! ☕ Time to hack on some passion projects 🚀
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit history reads like a developer portfolio until it hits "- fixed" — the laziest two-word shrug that makes every other thoughtful message look like you had a stroke halfway through the project.*
+*Your commit messages read like a software engineering textbook until "- fixed" crashes the party like someone who forgot they weren't texting their mom.*
 <!-- ROAST_END -->
