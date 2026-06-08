@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🌞 Sunday coding sessions hit different - grab some coffee and let's build something awesome! ☕
+Monday morning and the coffee is brewing ☕ - time to push some code and make this week legendary! 🚀
 <!-- GREETING_END -->
 
 ---
@@ -30,14 +30,14 @@ Hey there! 🌞 Sunday coding sessions hit different - grab some coffee and let'
 | S&P 500 | 7,383.74 | 🔴 -2.64% |
 | NASDAQ | 25,709.43 | 🔴 -4.18% |
 | Dow | 50,866.78 | 🔴 -1.35% |
-| FTSE 100 | 10,368.10 | 🟢 +0.08% |
+| FTSE 100 | 10,381.23 | 🟢 +0.06% |
 
-*My code has better uptime than today's NASDAQ which crashed harder than my first Python script (-4.18% vs my usual segfaults).*
+*My code has better error handling than the NASDAQ, which dropped 4.18% today while my unit tests are still passing.*
 
 **Latest headlines:**
-- [I was applying for hundreds of jobs - this tip helped me get one](https://www.bbc.com/news/articles/cd7pqwr5lqxo?at_medium=RSS&at_campaign=rss)
-- [Cake sheds are making bakers £1,000 a week - but the dream might be over](https://www.bbc.com/news/articles/crlpwd2prd0o?at_medium=RSS&at_campaign=rss)
-- [Fizzy drink cans recalled as they 'may rupture unexpectedly'](https://www.bbc.com/news/articles/ce8j0mxy28do?at_medium=RSS&at_campaign=rss)
+- [Stock markets fall on tech plunge and renewed Middle East attacks ](https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss)
+- [Starmer tells Apple and Google to ban nude images on children's phones](https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss)
+- [You may be saving to give up work without realising it. Here's how to check](https://www.bbc.com/news/articles/c1k2kpdzjdzo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🌞 Sunday coding sessions hit different - grab some coffee and let'
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages read like a software engineering textbook until "- fixed" crashes the party like someone who forgot they weren't texting their mom.*
+*Your commits range from impressively detailed like "feat: redesign UI to follow Apple HIG (macOS-native)" to the absolutely braindead "- fixed" that tells us nothing except that you've given up on life.*
 <!-- ROAST_END -->
