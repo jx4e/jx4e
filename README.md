@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Monday morning and the coffee is brewing ☕ - time to push some code and make this week legendary! 🚀
+Tuesday's here and the code is flowing! ☕ Time to squash some bugs and ship some features 🚀
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Monday morning and the coffee is brewing ☕ - time to push some code and make t
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,383.74 | 🔴 -2.64% |
-| NASDAQ | 25,709.43 | 🔴 -4.18% |
-| Dow | 50,866.78 | 🔴 -1.35% |
-| FTSE 100 | 10,381.23 | 🟢 +0.06% |
+| S&P 500 | 7,405.73 | 🟢 +0.30% |
+| NASDAQ | 25,929.66 | 🟢 +0.86% |
+| Dow | 50,786.01 | 🔴 -0.16% |
+| FTSE 100 | 10,350.42 | 🔴 -0.18% |
 
-*My code has better error handling than the NASDAQ, which dropped 4.18% today while my unit tests are still passing.*
+*My code debugging skills are like today's markets: NASDAQ rockets up 0.86% while Dow crashes -0.16% - some functions work perfectly, others inexplicably fail.*
 
 **Latest headlines:**
-- [Stock markets fall on tech plunge and renewed Middle East attacks ](https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss)
-- [Starmer tells Apple and Google to ban nude images on children's phones](https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss)
-- [You may be saving to give up work without realising it. Here's how to check](https://www.bbc.com/news/articles/c1k2kpdzjdzo?at_medium=RSS&at_campaign=rss)
+- [AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut](https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss)
+- [Driving test booking rules tightened after thousands of no shows](https://www.bbc.com/news/articles/c4gyel9n02zo?at_medium=RSS&at_campaign=rss)
+- [SpaceX's stock market blast-off could be Musk's biggest gamble yet](https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Monday morning and the coffee is brewing ☕ - time to push some code and make t
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits range from impressively detailed like "feat: redesign UI to follow Apple HIG (macOS-native)" to the absolutely braindead "- fixed" that tells us nothing except that you've given up on life.*
+*Your commits range from enterprise-grade engineering poetry to the tragic masterpiece that is "- fixed" — a commit message so profoundly lazy it makes "wip" look like a Shakespearean sonnet.*
 <!-- ROAST_END -->
