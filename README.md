@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Tuesday's here and the code is flowing! ☕ Time to squash some bugs and ship some features 🚀
+Hey there! 🐪 Midweek coding vibes are strong - let's push through to the weekend! 💻✨
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Tuesday's here and the code is flowing! ☕ Time to squash some bugs and ship so
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,405.73 | 🟢 +0.30% |
-| NASDAQ | 25,929.66 | 🟢 +0.86% |
-| Dow | 50,786.01 | 🔴 -0.16% |
-| FTSE 100 | 10,350.42 | 🔴 -0.18% |
+| S&P 500 | 7,386.65 | 🔴 -0.26% |
+| NASDAQ | 25,678.82 | 🔴 -0.97% |
+| Dow | 50,872.11 | 🟢 +0.17% |
+| FTSE 100 | 10,145.88 | 🔴 -0.93% |
 
-*My code debugging skills are like today's markets: NASDAQ rockets up 0.86% while Dow crashes -0.16% - some functions work perfectly, others inexplicably fail.*
+*My code has better stability than today's markets - at least when my functions crash, they don't take the NASDAQ down 0.97% with them.*
 
 **Latest headlines:**
-- [AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut](https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss)
-- [Driving test booking rules tightened after thousands of no shows](https://www.bbc.com/news/articles/c4gyel9n02zo?at_medium=RSS&at_campaign=rss)
-- [SpaceX's stock market blast-off could be Musk's biggest gamble yet](https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss)
+- [Bill debt soars but many don't know help is available](https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss)
+- [World's largest chipmaker does not rule out price rises as costs increase](https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss)
+- [How to enjoy the World Cup - and keep your boss on side](https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Tuesday's here and the code is flowing! ☕ Time to squash some bugs and ship so
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits range from enterprise-grade engineering poetry to the tragic masterpiece that is "- fixed" — a commit message so profoundly lazy it makes "wip" look like a Shakespearean sonnet.*
+*Your commits range from meticulous documentation poetry to the literary masterpiece that is "- fixed" — apparently even your git history has commitment issues.*
 <!-- ROAST_END -->
