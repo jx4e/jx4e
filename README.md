@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🐪 Midweek coding vibes are strong - let's push through to the weekend! 💻✨
+Hey there! 🚀 Almost made it to Friday - let's debug our way to the weekend! 💻✨
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Hey there! 🐪 Midweek coding vibes are strong - let's push through to the week
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,386.65 | 🔴 -0.26% |
-| NASDAQ | 25,678.82 | 🔴 -0.97% |
-| Dow | 50,872.11 | 🟢 +0.17% |
-| FTSE 100 | 10,145.88 | 🔴 -0.93% |
+| S&P 500 | 7,266.99 | 🔴 -1.62% |
+| NASDAQ | 25,169.50 | 🔴 -1.98% |
+| Dow | 49,918.78 | 🔴 -1.87% |
+| FTSE 100 | 10,360.13 | 🟢 +1.03% |
 
-*My code has better stability than today's markets - at least when my functions crash, they don't take the NASDAQ down 0.97% with them.*
+*My code has fewer bugs than the US markets had today: S&P -1.62%, NASDAQ -1.98%, Dow -1.87%, but at least FTSE is up 1.03% like my commit count.*
 
 **Latest headlines:**
-- [Bill debt soars but many don't know help is available](https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss)
-- [World's largest chipmaker does not rule out price rises as costs increase](https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss)
-- [How to enjoy the World Cup - and keep your boss on side](https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&at_campaign=rss)
+- [Ryanair investigated over charging parents to sit with children](https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss)
+- [The furious dispute over what caused Air India flight 171 to crash](https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss)
+- [Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss](https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🐪 Midweek coding vibes are strong - let's push through to the week
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits range from meticulous documentation poetry to the literary masterpiece that is "- fixed" — apparently even your git history has commitment issues.*
+*Your commits read like a developer's diary with actual thoughtful entries, then suddenly "- fixed" crashes the party like someone who shows up to a potluck with gas station chips.*
 <!-- ROAST_END -->
