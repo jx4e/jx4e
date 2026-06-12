@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 🚀 Almost made it to Friday - let's debug our way to the weekend! 💻✨
+Happy Friday! Time to merge those PRs and let the weekend debugging begin! 🐛💻🎉
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Hey there! 🚀 Almost made it to Friday - let's debug our way to the weekend! �
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,266.99 | 🔴 -1.62% |
-| NASDAQ | 25,169.50 | 🔴 -1.98% |
-| Dow | 49,918.78 | 🔴 -1.87% |
-| FTSE 100 | 10,360.13 | 🟢 +1.03% |
+| S&P 500 | 7,394.30 | 🟢 +1.75% |
+| NASDAQ | 25,809.66 | 🟢 +2.54% |
+| Dow | 50,848.75 | 🟢 +1.86% |
+| FTSE 100 | 10,426.63 | 🟢 +1.21% |
 
-*My code has fewer bugs than the US markets had today: S&P -1.62%, NASDAQ -1.98%, Dow -1.87%, but at least FTSE is up 1.03% like my commit count.*
+*My code compiled successfully today, which explains why the markets are up (S&P +1.75%, NASDAQ +2.54%, Dow +1.86%, FTSE +1.21%) - clearly the universe is in perfect alignment.*
 
 **Latest headlines:**
-- [Ryanair investigated over charging parents to sit with children](https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss)
-- [The furious dispute over what caused Air India flight 171 to crash](https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss)
-- [Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss](https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss)
+- [Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch](https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss)
+- [Watch: Three things to know about SpaceX's stock market debut](https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss)
+- [UK economy contracts as Iran war impact felt](https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 🚀 Almost made it to Friday - let's debug our way to the weekend! �
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits read like a developer's diary with actual thoughtful entries, then suddenly "- fixed" crashes the party like someone who shows up to a potluck with gas station chips.*
+*Your commits read like a senior engineer's fever dream, but "docs(api): note the deliberate no-Argon2 fast path on 423 lockout" wins the award for most pretentious way to say "I skipped proper hashing here."*
 <!-- ROAST_END -->
