@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Happy Friday! Time to merge those PRs and let the weekend debugging begin! 🐛💻🎉
+Hey there! 💻 Saturday coding sessions hit different - grab some coffee and let's build something awesome! ☕
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Happy Friday! Time to merge those PRs and let the weekend debugging begin! 🐛�
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,394.30 | 🟢 +1.75% |
-| NASDAQ | 25,809.66 | 🟢 +2.54% |
-| Dow | 50,848.75 | 🟢 +1.86% |
-| FTSE 100 | 10,426.63 | 🟢 +1.21% |
+| S&P 500 | 7,431.46 | 🟢 +0.50% |
+| NASDAQ | 25,888.84 | 🟢 +0.31% |
+| Dow | 51,202.26 | 🟢 +0.70% |
+| FTSE 100 | 10,471.70 | 🟢 +1.63% |
 
-*My code compiled successfully today, which explains why the markets are up (S&P +1.75%, NASDAQ +2.54%, Dow +1.86%, FTSE +1.21%) - clearly the universe is in perfect alignment.*
+*Like my code performance, the markets are debugging upward today: Dow +0.70%, S&P +0.50%, NASDAQ +0.31%, and FTSE +1.63% - clearly someone fixed the memory leaks in the global economy.*
 
 **Latest headlines:**
-- [Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch](https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss)
-- [Watch: Three things to know about SpaceX's stock market debut](https://www.bbc.com/news/videos/c4gyx0x1d5ro?at_medium=RSS&at_campaign=rss)
-- [UK economy contracts as Iran war impact felt](https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss)
+- [Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut](https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss)
+- [UK vows to phase out Russian diesel and jet fuel imports by new year](https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss)
+- ['I was employee number one': SpaceX co-founder reacts to firm's market debut](https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Happy Friday! Time to merge those PRs and let the weekend debugging begin! 🐛�
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits read like a senior engineer's fever dream, but "docs(api): note the deliberate no-Argon2 fast path on 423 lockout" wins the award for most pretentious way to say "I skipped proper hashing here."*
+*Your commit messages read like a software engineer's fever dream, but "docs(api): note the deliberate no-Argon2 fast path on 423 lockout" takes the crown for being so lazily vague that even your future self will have no clue what you actually changed.*
 <!-- ROAST_END -->
