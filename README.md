@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Hey there! 💻 Saturday coding sessions hit different - grab some coffee and let's build something awesome! ☕
+Sunday vibes: debugging with coffee and zero meetings scheduled ☕️🐛✨
 <!-- GREETING_END -->
 
 ---
@@ -32,12 +32,12 @@ Hey there! 💻 Saturday coding sessions hit different - grab some coffee and le
 | Dow | 51,202.26 | 🟢 +0.70% |
 | FTSE 100 | 10,471.70 | 🟢 +1.63% |
 
-*Like my code performance, the markets are debugging upward today: Dow +0.70%, S&P +0.50%, NASDAQ +0.31%, and FTSE +1.63% - clearly someone fixed the memory leaks in the global economy.*
+*My code commits are more consistent than the markets today - S&P gained 0.50%, NASDAQ crawled 0.31%, Dow jumped 0.70%, but FTSE absolutely crushed it at 1.63% like a British dev who finally fixed their regex on the first try.*
 
 **Latest headlines:**
-- [Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut](https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss)
-- [UK vows to phase out Russian diesel and jet fuel imports by new year](https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss)
-- ['I was employee number one': SpaceX co-founder reacts to firm's market debut](https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss)
+- [Why the US economy keeps defying the odds](https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss)
+- [Elon Musk's stratospheric rise to trillionaire status - in charts](https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss)
+- [Anthropic suspends new AI tools over US government security concerns](https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Hey there! 💻 Saturday coding sessions hit different - grab some coffee and le
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commit messages read like a software engineer's fever dream, but "docs(api): note the deliberate no-Argon2 fast path on 423 lockout" takes the crown for being so lazily vague that even your future self will have no clue what you actually changed.*
+*Your commits read like a technical diary written by someone who thinks "fix(api): scrapedAt is always tz-aware UTC (TZDateTime on ScrapeResult.scraped_at)" is punchy prose, but "Merge Layer 1a-2: Workday endpoints + connect/Duo bridge + Alembic" takes the crown for being so vague it could describe either a feature or a nervous breakdown.*
 <!-- ROAST_END -->
