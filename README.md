@@ -17,7 +17,7 @@ Software engineer from the UK, studying CS @ UBC. I like building things that ar
 ## 💬 Greeting of the Day
 
 <!-- GREETING_START -->
-Sunday vibes: debugging with coffee and zero meetings scheduled ☕️🐛✨
+Monday mode: activated ☕ Time to debug the weekend out of my brain and commit to greatness! 💻
 <!-- GREETING_END -->
 
 ---
@@ -27,17 +27,17 @@ Sunday vibes: debugging with coffee and zero meetings scheduled ☕️🐛✨
 <!-- MARKET_START -->
 | Index | Price | Day |
 |---|---|---|
-| S&P 500 | 7,431.46 | 🟢 +0.50% |
-| NASDAQ | 25,888.84 | 🟢 +0.31% |
-| Dow | 51,202.26 | 🟢 +0.70% |
-| FTSE 100 | 10,471.70 | 🟢 +1.63% |
+| S&P 500 | 7,546.99 | 🟢 +1.56% |
+| NASDAQ | 26,488.53 | 🟢 +2.32% |
+| Dow | 51,781.04 | 🟢 +1.13% |
+| FTSE 100 | 10,432.15 | 🔴 -0.27% |
 
-*My code commits are more consistent than the markets today - S&P gained 0.50%, NASDAQ crawled 0.31%, Dow jumped 0.70%, but FTSE absolutely crushed it at 1.63% like a British dev who finally fixed their regex on the first try.*
+*My code performance today: NASDAQ-level gains (+2.32% fewer bugs), S&P 500 productivity boost (+1.56% commits), but my work-life balance pulled a FTSE 100 and dropped 0.27%.*
 
 **Latest headlines:**
-- [Why the US economy keeps defying the odds](https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss)
-- [Elon Musk's stratospheric rise to trillionaire status - in charts](https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss)
-- [Anthropic suspends new AI tools over US government security concerns](https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss)
+- [The US and Iran have agreed a deal. How soon could the economy go back to normal?](https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss)
+- [Oil prices fall and shares jump after US-Iran deal announced](https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss)
+- [What's happening to UK petrol and diesel prices now the US and Iran have a deal?](https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss)
 <!-- MARKET_END -->
 
 ---
@@ -45,5 +45,5 @@ Sunday vibes: debugging with coffee and zero meetings scheduled ☕️🐛✨
 ## 🔥 Commit Roast
 
 <!-- ROAST_START -->
-*Your commits read like a technical diary written by someone who thinks "fix(api): scrapedAt is always tz-aware UTC (TZDateTime on ScrapeResult.scraped_at)" is punchy prose, but "Merge Layer 1a-2: Workday endpoints + connect/Duo bridge + Alembic" takes the crown for being so vague it could describe either a feature or a nervous breakdown.*
+*Your commits read like a tech lead's fever dream, but "docs(api): note the deliberate no-Argon2 fast path on 423 lockout" takes the crown for being so aggressively over-engineered that it makes enterprise Java developers weep with envy.*
 <!-- ROAST_END -->
